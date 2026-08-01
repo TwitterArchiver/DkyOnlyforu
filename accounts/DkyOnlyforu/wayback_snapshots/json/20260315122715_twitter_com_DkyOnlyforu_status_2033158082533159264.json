@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2032725058041557292",
+    "created_at": "2026-03-15T12:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033158082533159264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860730309559623680",
+          "start": 0,
+          "username": "ybbyy19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033158082533159264",
+    "in_reply_to_user_id": "1860730309559623680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032725058041557292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ybbyy19 会爱上我，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2032725058041557292",
+        "created_at": "2026-03-15T12:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033158082533159264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860730309559623680",
+              "start": 0,
+              "username": "ybbyy19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033158082533159264",
+        "in_reply_to_user_id": "1860730309559623680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032725058041557292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ybbyy19 会爱上我，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860730309559623680",
+        "conversation_id": "2032725058041557292",
+        "created_at": "2026-03-14T07:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032725058041557292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032725058041557292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19485,
+          "like_count": 241,
+          "quote_count": 16,
+          "reply_count": 73,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢傻子怎么办，对智商低的老是涌现出一股爱意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 390,
+          "like_count": 3387,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1562
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:01:00.000Z",
+        "description": "阳痿治好了，低素质选手。不是🚪没有🚪，我爱回谁回谁|胖墩子不爱看别看|被烦到就锁推或拉黑",
+        "id": "1860730309559623680",
+        "name": "海盐芝士薯片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031092724036935680/aJJDBygv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 273,
+          "like_count": 20426,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 551
+        },
+        "username": "ybbyy19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2069810166665818132",
+    "created_at": "2026-06-25T07:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070045172747096569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1593884908195401728",
+          "start": 0,
+          "username": "uugbfbnkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070045172747096569",
+    "in_reply_to_user_id": "1593884908195401728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069810166665818132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uugbfbnkk 宝贝你好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6366,
+        "height": 1280,
+        "media_key": "13_2069810108121653248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069810108121653248/img/HS9BTPqTvfz4uUsk.jpg",
+        "public_metrics": {
+          "view_count": 12181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069810108121653248/vid/avc1/320x568/JG7JyIcZHhHov42v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069810108121653248/vid/avc1/480x852/pjln2j7HBwQLCcwK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069810108121653248/vid/avc1/720x1280/3RooTuDw132ijYBZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069810108121653248/pl/4zMvX6uJU4z7eM-M.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2069810166665818132",
+        "created_at": "2026-06-25T07:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070045172747096569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1593884908195401728",
+              "start": 0,
+              "username": "uugbfbnkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070045172747096569",
+        "in_reply_to_user_id": "1593884908195401728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069810166665818132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uugbfbnkk 宝贝你好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069810108121653248"
+          ]
+        },
+        "author_id": "1593884908195401728",
+        "conversation_id": "2069810166665818132",
+        "created_at": "2026-06-24T15:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069810166665818132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVJAgmk3oX",
+              "end": 33,
+              "expanded_url": "https://x.com/uugbfbnkk/status/2069810166665818132/video/1",
+              "media_key": "13_2069810108121653248",
+              "start": 10,
+              "url": "https://t.co/UVJAgmk3oX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069810166665818132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 43402,
+          "like_count": 455,
+          "quote_count": 0,
+          "reply_count": 92,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "可是我觉得很甜蜜啊 https://t.co/UVJAgmk3oX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 472,
+          "like_count": 5327,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 2606
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T08:32:38.000Z",
+        "description": "一个女疯子，不建议关注",
+        "id": "1593884908195401728",
+        "name": "晚安淼",
+        "pinned_tweet_id": "2069800537743303086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156806077472769/dIauj5Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42353,
+          "following_count": 116,
+          "like_count": 313,
+          "listed_count": 124,
+          "media_count": 87,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "uugbfbnkk",
+        "verified": false
+      }
+    ]
+  }
+}

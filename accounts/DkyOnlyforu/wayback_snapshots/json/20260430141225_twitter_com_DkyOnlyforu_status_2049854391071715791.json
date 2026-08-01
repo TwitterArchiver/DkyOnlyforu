@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2049617155243851824",
+    "created_at": "2026-04-30T14:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049854391071715791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596072093073870848",
+          "start": 0,
+          "username": "LjoiVpF2myZozmY"
+        },
+        {
+          "end": 29,
+          "id": "1767122266414882816",
+          "start": 17,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049854391071715791",
+    "in_reply_to_user_id": "1596072093073870848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049848356458082465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LjoiVpF2myZozmY @shu_fan0228 我只吃了18t 过了三四个小时会有特别想吐的感觉(&gt;﹏&lt;)还是要配止吐片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2049617155243851824",
+        "created_at": "2026-04-30T14:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049854391071715791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596072093073870848",
+              "start": 0,
+              "username": "LjoiVpF2myZozmY"
+            },
+            {
+              "end": 29,
+              "id": "1767122266414882816",
+              "start": 17,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049854391071715791",
+        "in_reply_to_user_id": "1596072093073870848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049848356458082465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LjoiVpF2myZozmY @shu_fan0228 我只吃了18t 过了三四个小时会有特别想吐的感觉(&gt;﹏&lt;)还是要配止吐片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596072093073870848",
+        "conversation_id": "2049617155243851824",
+        "created_at": "2026-04-30T13:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049848356458082465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            },
+            {
+              "end": 25,
+              "id": "1767122266414882816",
+              "start": 13,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049848356458082465",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049723984267362743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu @shu_fan0228 宝宝吃多少会想吐呀，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 425,
+          "like_count": 4757,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2196
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T09:23:45.000Z",
+        "description": "/",
+        "id": "1596072093073870848",
+        "name": "C₄H₄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041516274820521985/aMIgSUNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "LjoiVpF2myZozmY",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "一个幸福的旋转的白痴神棍",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "1901257523258327203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 166,
+          "like_count": 3441,
+          "listed_count": 3,
+          "media_count": 716,
+          "tweet_count": 4360
+        },
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

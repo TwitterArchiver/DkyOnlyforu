@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2040988521994002453",
+    "created_at": "2026-04-06T03:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040988521994002453"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040988521994002453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的妈妈发现了枕头下的电子烟、因为昨天忘记给他藏起来了，然后刚才她又问我你还抽电子烟，后面我就和我说在屋里抽不了纸的，你想抽吗？我给你买。哈哈哈哈哈哈哈、我妈可能不想管我抽电子烟了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2040988521994002453",
+        "created_at": "2026-04-06T03:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040988521994002453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040988521994002453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈妈发现了枕头下的电子烟、因为昨天忘记给他藏起来了，然后刚才她又问我你还抽电子烟，后面我就和我说在屋里抽不了纸的，你想抽吗？我给你买。哈哈哈哈哈哈哈、我妈可能不想管我抽电子烟了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039039493211381760/FL4fXkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 352,
+          "like_count": 4091,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1854
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

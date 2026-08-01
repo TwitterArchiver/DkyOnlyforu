@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2041167600785478130",
+    "created_at": "2026-04-07T08:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041432065653264392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989560154757730304",
+          "start": 0,
+          "username": "withu_til_4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041432065653264392",
+    "in_reply_to_user_id": "1989560154757730304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041317429045862817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@withu_til_4ever 好呀好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2041167600785478130",
+        "created_at": "2026-04-07T08:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041432065653264392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989560154757730304",
+              "start": 0,
+              "username": "withu_til_4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041432065653264392",
+        "in_reply_to_user_id": "1989560154757730304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041317429045862817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@withu_til_4ever 好呀好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989560154757730304",
+        "conversation_id": "2041167600785478130",
+        "created_at": "2026-04-07T00:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041317429045862817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041317429045862817",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041167600785478130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 天呐bb你太可爱了 可以互嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039039493211381760/FL4fXkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 360,
+          "like_count": 4139,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1884
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T05:04:48.000Z",
+        "description": "叫我yu/uu｜想和同类妹子互fo聊天｜INFP 19yo 摩羯座｜oded🩸｜晚期偶像厨｜淫追掏四中｜辱我心肝者死",
+        "id": "1989560154757730304",
+        "name": "yu",
+        "pinned_tweet_id": "2013185675542110671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041386043937824769/2uF-6nsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 31,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 281
+        },
+        "username": "withu_til_4ever",
+        "verified": false
+      }
+    ]
+  }
+}

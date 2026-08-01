@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2029197133434499187",
+    "created_at": "2026-03-06T07:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029823869834698854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1639569718825873409",
+          "start": 0,
+          "username": "gokjhkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029823869834698854",
+    "in_reply_to_user_id": "1639569718825873409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029797044894978058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gokjhkk 我可能要被劝退，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2029197133434499187",
+        "created_at": "2026-03-06T07:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029823869834698854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1639569718825873409",
+              "start": 0,
+              "username": "gokjhkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029823869834698854",
+        "in_reply_to_user_id": "1639569718825873409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029797044894978058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gokjhkk 我可能要被劝退，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639569718825873409",
+        "conversation_id": "2029197133434499187",
+        "created_at": "2026-03-06T05:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029797044894978058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029797044894978058",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029197133434499187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 我直接退学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 343,
+          "like_count": 3084,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1401
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T10:07:59.000Z",
+        "description": "",
+        "id": "1639569718825873409",
+        "name": "千反夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216801278771200/LN81Hy9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "gokjhkk",
+        "verified": false
+      }
+    ]
+  }
+}

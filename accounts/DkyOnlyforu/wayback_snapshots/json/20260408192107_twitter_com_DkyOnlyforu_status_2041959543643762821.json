@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2041959543643762821",
+    "created_at": "2026-04-08T19:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041959543643762821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dkyonlyforu/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/dkyonlyforu/status/2024469954402394372",
+          "start": 29,
+          "url": "https://t.co/QpLB1UkzZt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041959543643762821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024469954402394372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "承受能力下降至0.00001个鸡蛋壳TAT 不要欺负我了 https://t.co/QpLB1UkzZt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2041959543643762821",
+        "created_at": "2026-04-08T19:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041959543643762821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dkyonlyforu/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/dkyonlyforu/status/2024469954402394372",
+              "start": 29,
+              "url": "https://t.co/QpLB1UkzZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041959543643762821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024469954402394372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "承受能力下降至0.00001个鸡蛋壳TAT 不要欺负我了 https://t.co/QpLB1UkzZt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2024469954402394372",
+        "created_at": "2026-02-19T13:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024469954402394372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024469954402394372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19558,
+          "like_count": 476,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "心理年龄：5岁\n实际智商：14岁\n​承受能力：半个鸡蛋壳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041925834454532096/k-7C7OmQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 370,
+          "like_count": 4195,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1914
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046619311817826304",
+        "3_2046619305056591872",
+        "3_2046619306608513024"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046619405560492259",
+    "created_at": "2026-04-21T15:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046619405560492259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHDk7M2GyY",
+          "end": 32,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2046619405560492259/photo/1",
+          "media_key": "3_2046619311817826304",
+          "start": 9,
+          "url": "https://t.co/HHDk7M2GyY"
+        },
+        {
+          "display_url": "pic.x.com/HHDk7M2GyY",
+          "end": 32,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2046619405560492259/photo/1",
+          "media_key": "3_2046619305056591872",
+          "start": 9,
+          "url": "https://t.co/HHDk7M2GyY"
+        },
+        {
+          "display_url": "pic.x.com/HHDk7M2GyY",
+          "end": 32,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2046619405560492259/photo/1",
+          "media_key": "3_2046619306608513024",
+          "start": 9,
+          "url": "https://t.co/HHDk7M2GyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046619405560492259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新爱好(￣∇￣) https://t.co/HHDk7M2GyY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046619311817826304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcNa69bIAAWMgW.jpg",
+        "width": 1778
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2046619305056591872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcNahxa4AAL8CS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046619306608513024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcNanjbUAAQkyc.jpg",
+        "width": 1860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046619311817826304",
+            "3_2046619305056591872",
+            "3_2046619306608513024"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046619405560492259",
+        "created_at": "2026-04-21T15:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046619405560492259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHDk7M2GyY",
+              "end": 32,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2046619405560492259/photo/1",
+              "media_key": "3_2046619311817826304",
+              "start": 9,
+              "url": "https://t.co/HHDk7M2GyY"
+            },
+            {
+              "display_url": "pic.x.com/HHDk7M2GyY",
+              "end": 32,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2046619405560492259/photo/1",
+              "media_key": "3_2046619305056591872",
+              "start": 9,
+              "url": "https://t.co/HHDk7M2GyY"
+            },
+            {
+              "display_url": "pic.x.com/HHDk7M2GyY",
+              "end": 32,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2046619405560492259/photo/1",
+              "media_key": "3_2046619306608513024",
+              "start": 9,
+              "url": "https://t.co/HHDk7M2GyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046619405560492259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新爱好(￣∇￣) https://t.co/HHDk7M2GyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 405,
+          "like_count": 4617,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2112
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

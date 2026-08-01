@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079058396259782883",
+    "created_at": "2026-07-20T07:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079099127510819185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050118181248024576",
+          "start": 0,
+          "username": "Mintweeeeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079099127510819185",
+    "in_reply_to_user_id": "2050118181248024576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079083422296006932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintweeeeeee 嘿嘿bingo～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079058396259782883",
+        "created_at": "2026-07-20T07:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079099127510819185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050118181248024576",
+              "start": 0,
+              "username": "Mintweeeeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079099127510819185",
+        "in_reply_to_user_id": "2050118181248024576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079083422296006932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintweeeeeee 嘿嘿bingo～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050118181248024576",
+        "conversation_id": "2079058396259782883",
+        "created_at": "2026-07-20T05:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079083422296006932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079083422296006932",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079058396259782883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 这是给自己的批註嗎・㉨・"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 479,
+          "like_count": 5432,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2661
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T07:40:49.000Z",
+        "description": "此账号为意淫和发疯账号。专心等待我的四爱男孩中…4i/iii",
+        "id": "2050118181248024576",
+        "name": "痛",
+        "pinned_tweet_id": "2079069238367813981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075105206921232385/Z1xqZ9FS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 5,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Mintweeeeeee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079951019858096635",
+    "created_at": "2026-07-24T05:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080518464008323338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2079097394755723264",
+          "start": 0,
+          "username": "yukio2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080518464008323338",
+    "in_reply_to_user_id": "2079097394755723264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080292154283528692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukio2o 咋这么坏😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079951019858096635",
+        "created_at": "2026-07-24T05:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080518464008323338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2079097394755723264",
+              "start": 0,
+              "username": "yukio2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080518464008323338",
+        "in_reply_to_user_id": "2079097394755723264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080292154283528692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukio2o 咋这么坏😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079097394755723264",
+        "conversation_id": "2079951019858096635",
+        "created_at": "2026-07-23T14:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080292154283528692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080292154283528692",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079951019858096635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 我在朋友圈卖惨的后果是被人笑话然后显得更惨了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 498,
+          "like_count": 5752,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2794
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T07:00:52.000Z",
+        "description": "",
+        "id": "2079097394755723264",
+        "location": "美国",
+        "name": "Sylvia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079099582710194177/PnJeTzCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "yukio2o",
+        "verified": false
+      }
+    ]
+  }
+}

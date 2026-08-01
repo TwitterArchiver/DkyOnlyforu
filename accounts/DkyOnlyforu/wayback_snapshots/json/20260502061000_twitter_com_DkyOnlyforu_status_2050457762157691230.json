@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2041963178775691700",
+    "created_at": "2026-05-02T06:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050457762157691230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919960923361705984",
+          "start": 0,
+          "username": "kk9977ala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050457762157691230",
+    "in_reply_to_user_id": "1919960923361705984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050430626789278179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk9977ala 我支持…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2041963178775691700",
+        "created_at": "2026-05-02T06:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050457762157691230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919960923361705984",
+              "start": 0,
+              "username": "kk9977ala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050457762157691230",
+        "in_reply_to_user_id": "1919960923361705984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050430626789278179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk9977ala 我支持…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919960923361705984",
+        "conversation_id": "2041963178775691700",
+        "created_at": "2026-05-02T04:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050430626789278179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050430626789278179",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041963178775691700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 我要是有死亡笔记我会买一箱压缩饼干订一个凌晨六点的闹钟每天比写作业还勤快地写满十六个小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 432,
+          "like_count": 4846,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 2236
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:42:20.000Z",
+        "description": "遇见我算你好运！",
+        "id": "1919960923361705984",
+        "name": "疯狂邪恶穷狗",
+        "pinned_tweet_id": "1986044075720716573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029977547124133890/w00m28VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 858,
+          "like_count": 449,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 417
+        },
+        "username": "kk9977ala",
+        "verified": false
+      }
+    ]
+  }
+}

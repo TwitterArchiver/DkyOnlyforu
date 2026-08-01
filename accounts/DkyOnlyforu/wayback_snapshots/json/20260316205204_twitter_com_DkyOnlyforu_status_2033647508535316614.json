@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2033548528497406092",
+    "created_at": "2026-03-16T20:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T21:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033647508535316614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033647508535316614",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033548528497406092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 霸王丝呀米米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033548523061592064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDidm4abQAAWEar.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2033548528497406092",
+        "created_at": "2026-03-16T20:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T21:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033647508535316614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033647508535316614",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033548528497406092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 霸王丝呀米米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033548523061592064"
+          ]
+        },
+        "author_id": "1345332631429287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033548528497406092",
+        "created_at": "2026-03-16T14:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033548528497406092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrgObqVUVf",
+              "end": 40,
+              "expanded_url": "https://x.com/omo0903/status/2033548528497406092/photo/1",
+              "media_key": "3_2033548523061592064",
+              "start": 17,
+              "url": "https://t.co/BrgObqVUVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033548528497406092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不小心買太多了，這些量夠我吃一年 https://t.co/BrgObqVUVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 403,
+          "like_count": 3464,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1617
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n重鬱/中焦/ADD/解離/恐慌/自殺未遂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo09031",
+                "end": 23,
+                "expanded_url": "https://ngl.link/omo09031",
+                "start": 0,
+                "url": "https://t.co/XTzLYjFyX8"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "Taipei City, Taiwan",
+        "name": "？（回推ver.)",
+        "pinned_tweet_id": "1971149103989137451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029304226527232006/t0OIPzbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 952,
+          "like_count": 62267,
+          "listed_count": 7,
+          "media_count": 670,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/XTzLYjFyX8",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

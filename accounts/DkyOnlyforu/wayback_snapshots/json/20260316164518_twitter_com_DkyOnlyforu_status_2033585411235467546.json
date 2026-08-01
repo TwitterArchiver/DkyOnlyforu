@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2033524921398431848",
+    "created_at": "2026-03-16T16:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033585411235467546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1705462502958546944",
+          "start": 0,
+          "username": "jing12369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033585411235467546",
+    "in_reply_to_user_id": "1705462502958546944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033547767906537949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing12369 离不开了，，."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2033524921398431848",
+        "created_at": "2026-03-16T16:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033585411235467546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1705462502958546944",
+              "start": 0,
+              "username": "jing12369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033585411235467546",
+        "in_reply_to_user_id": "1705462502958546944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033547767906537949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing12369 离不开了，，."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705462502958546944",
+        "conversation_id": "2033524921398431848",
+        "created_at": "2026-03-16T14:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033547767906537949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033547767906537949",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033524921398431848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 上瘾程度堪比毒品😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 405,
+          "like_count": 3449,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1606
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T06:02:10.000Z",
+        "description": "可以叫我炒冷饭 /嗑药自残慎关\n平时发发中表男和自己的烂画 /中表偏杂食如果不磕cp可能对大部分人都是一体机/建政 搞同人只是顺便",
+        "id": "1705462502958546944",
+        "location": "默默的死去",
+        "name": "一碗炒冷饭",
+        "pinned_tweet_id": "2032128174465876310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021674313305518080/paL5Ga9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 215,
+          "like_count": 14121,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 4587
+        },
+        "username": "jing12369",
+        "verified": false
+      }
+    ]
+  }
+}

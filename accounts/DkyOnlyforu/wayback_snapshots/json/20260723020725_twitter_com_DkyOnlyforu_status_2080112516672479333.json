@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079921501328064660",
+    "created_at": "2026-07-23T02:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080112516672479333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "858868164351873024",
+          "start": 0,
+          "username": "define02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080112516672479333",
+    "in_reply_to_user_id": "858868164351873024",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080102461826826288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@define02 (›´ω`‹ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079921501328064660",
+        "created_at": "2026-07-23T02:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080112516672479333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "858868164351873024",
+              "start": 0,
+              "username": "define02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080112516672479333",
+        "in_reply_to_user_id": "858868164351873024",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080102461826826288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@define02 (›´ω`‹ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858868164351873024",
+        "conversation_id": "2079921501328064660",
+        "created_at": "2026-07-23T01:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080102461826826288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080102461826826288",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079921501328064660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 眼妆画的好牛逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 495,
+          "like_count": 5672,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 2757
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T02:18:22.000Z",
+        "description": "最后一天冲击前继续告诉我",
+        "id": "858868164351873024",
+        "name": "驟雨の狭間",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038824282730684416/q6M8GsXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 114,
+          "like_count": 3084,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "define02",
+        "verified": false
+      }
+    ]
+  }
+}

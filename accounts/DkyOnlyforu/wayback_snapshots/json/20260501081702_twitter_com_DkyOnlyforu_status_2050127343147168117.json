@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050127281369341952"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2050127343147168117",
+    "created_at": "2026-05-01T08:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050127343147168117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wRatCVXvDb",
+          "end": 23,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2050127343147168117/video/1",
+          "media_key": "13_2050127281369341952",
+          "start": 0,
+          "url": "https://t.co/wRatCVXvDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050127343147168117",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/wRatCVXvDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5200,
+        "height": 1280,
+        "media_key": "13_2050127281369341952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050127281369341952/img/d1wQK17LUPA1EUmh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050127281369341952/vid/avc1/320x568/ABJXUjwAnhWTP0Y5.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050127281369341952/vid/avc1/480x852/KDDlYejEOHn1QhLG.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050127281369341952/vid/avc1/720x1280/2zmWKELZl90w6zOW.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050127281369341952/pl/_VuQUqSmcL2ZWbuC.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050127281369341952"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2050127343147168117",
+        "created_at": "2026-05-01T08:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050127343147168117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRatCVXvDb",
+              "end": 23,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2050127343147168117/video/1",
+              "media_key": "13_2050127281369341952",
+              "start": 0,
+              "url": "https://t.co/wRatCVXvDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050127343147168117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wRatCVXvDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 429,
+          "like_count": 4762,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2203
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

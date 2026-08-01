@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041939258861342720",
+        "3_2041939259377250307",
+        "3_2041939258844573700"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2041939343867343144",
+    "created_at": "2026-04-08T18:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041939343867343144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IZ7RDqwWeb",
+          "end": 76,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2041939343867343144/photo/1",
+          "media_key": "3_2041939258861342720",
+          "start": 53,
+          "url": "https://t.co/IZ7RDqwWeb"
+        },
+        {
+          "display_url": "pic.x.com/IZ7RDqwWeb",
+          "end": 76,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2041939343867343144/photo/1",
+          "media_key": "3_2041939259377250307",
+          "start": 53,
+          "url": "https://t.co/IZ7RDqwWeb"
+        },
+        {
+          "display_url": "pic.x.com/IZ7RDqwWeb",
+          "end": 76,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2041939343867343144/photo/1",
+          "media_key": "3_2041939258844573700",
+          "start": 53,
+          "url": "https://t.co/IZ7RDqwWeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041939343867343144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "停停停又来111222了😂孩子你咋了呀我不卖批你气不气 检测到这根屌被🚪姐骗了气急败坏乱骂所有人捧腹大笑 https://t.co/IZ7RDqwWeb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041939258861342720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZs7_Fa0AAhLlH.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041939259377250307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZs8BAa8AM27sC.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041939258844573700",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZs7_Ba8AQaK3w.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041939258861342720",
+            "3_2041939259377250307",
+            "3_2041939258844573700"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2041939343867343144",
+        "created_at": "2026-04-08T18:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041939343867343144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZ7RDqwWeb",
+              "end": 76,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2041939343867343144/photo/1",
+              "media_key": "3_2041939258861342720",
+              "start": 53,
+              "url": "https://t.co/IZ7RDqwWeb"
+            },
+            {
+              "display_url": "pic.x.com/IZ7RDqwWeb",
+              "end": 76,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2041939343867343144/photo/1",
+              "media_key": "3_2041939259377250307",
+              "start": 53,
+              "url": "https://t.co/IZ7RDqwWeb"
+            },
+            {
+              "display_url": "pic.x.com/IZ7RDqwWeb",
+              "end": 76,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2041939343867343144/photo/1",
+              "media_key": "3_2041939258844573700",
+              "start": 53,
+              "url": "https://t.co/IZ7RDqwWeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041939343867343144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停停停又来111222了😂孩子你咋了呀我不卖批你气不气 检测到这根屌被🚪姐骗了气急败坏乱骂所有人捧腹大笑 https://t.co/IZ7RDqwWeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041925834454532096/k-7C7OmQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 368,
+          "like_count": 4175,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1905
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

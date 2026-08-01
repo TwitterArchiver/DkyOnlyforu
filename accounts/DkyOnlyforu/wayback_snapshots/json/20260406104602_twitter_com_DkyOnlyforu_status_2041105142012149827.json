@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2040741875884425625",
+    "created_at": "2026-04-06T10:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041105142012149827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2032152441685491714",
+          "start": 0,
+          "username": "Sqdqge"
+        },
+        {
+          "end": 24,
+          "id": "2013875219392585728",
+          "start": 8,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041105142012149827",
+    "in_reply_to_user_id": "2032152441685491714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040741875884425625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sqdqge @e57jcetmSs91516 可以可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2040741875884425625",
+        "created_at": "2026-04-06T10:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041105142012149827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032152441685491714",
+              "start": 0,
+              "username": "Sqdqge"
+            },
+            {
+              "end": 24,
+              "id": "2013875219392585728",
+              "start": 8,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041105142012149827",
+        "in_reply_to_user_id": "2032152441685491714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040741875884425625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sqdqge @e57jcetmSs91516 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032152441685491714",
+        "conversation_id": "2040741875884425625",
+        "created_at": "2026-04-05T10:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040741875884425625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040741875884425625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1892,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想和餐劵妹互关。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039039493211381760/FL4fXkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 356,
+          "like_count": 4108,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1866
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T17:53:30.000Z",
+        "description": "",
+        "id": "2032152441685491714",
+        "location": "🚪52/188/520/上不封顶（不退门",
+        "name": "阴天",
+        "pinned_tweet_id": "2032406867562131763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032403021746126848/rhj8Y4BF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 66,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 158
+        },
+        "username": "Sqdqge",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "姐姐@maitakoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "maitakoo"
+              }
+            ]
+          }
+        },
+        "id": "2013875219392585728",
+        "location": "🚪52/288/520上不封顶（过门不退",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040745460525375488/BnggFBxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 267,
+          "like_count": 10943,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 4486
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

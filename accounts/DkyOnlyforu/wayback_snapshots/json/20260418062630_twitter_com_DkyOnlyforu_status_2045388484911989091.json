@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2043673229689332216",
+    "created_at": "2026-04-18T06:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045388484911989091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729529432254128128",
+          "start": 0,
+          "username": "huy13611X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045388484911989091",
+    "in_reply_to_user_id": "1729529432254128128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045383683423793461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huy13611X 小宝宝～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2043673229689332216",
+        "created_at": "2026-04-18T06:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045388484911989091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729529432254128128",
+              "start": 0,
+              "username": "huy13611X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045388484911989091",
+        "in_reply_to_user_id": "1729529432254128128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045383683423793461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huy13611X 小宝宝～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729529432254128128",
+        "conversation_id": "2043673229689332216",
+        "created_at": "2026-04-18T06:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045383683423793461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045383683423793461",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043673229689332216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 亲亲你♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 396,
+          "like_count": 4520,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 2065
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T15:55:53.000Z",
+        "description": "正在寻找视奸对象中.....",
+        "id": "1729529432254128128",
+        "location": "江苏",
+        "name": "弧悠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941507363338428416/_eiAS0yF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 695,
+          "like_count": 6833,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1761
+        },
+        "username": "huy13611X",
+        "verified": false
+      }
+    ]
+  }
+}

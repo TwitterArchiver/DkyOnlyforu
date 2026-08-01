@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2066007871943565748",
+    "created_at": "2026-06-14T08:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066078030917931032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844383857581359105",
+          "start": 0,
+          "username": "Gangbangxjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066078030917931032",
+    "in_reply_to_user_id": "1844383857581359105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066037014357803380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gangbangxjp 啊我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2066007871943565748",
+        "created_at": "2026-06-14T08:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066078030917931032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844383857581359105",
+              "start": 0,
+              "username": "Gangbangxjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066078030917931032",
+        "in_reply_to_user_id": "1844383857581359105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066037014357803380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gangbangxjp 啊我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844383857581359105",
+        "conversation_id": "2066007871943565748",
+        "created_at": "2026-06-14T05:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066037014357803380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066037014357803380",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066007871943565748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 你不怕od而死吗？已经够糟了，要被你这样搞到什么地步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 458,
+          "like_count": 5269,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 2558
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T14:26:13.000Z",
+        "description": "反对共产主义/反对后天自我性别认同/反对od和自杀/拒绝自残珍爱生命/有什么问题可以找我聊，我或许会安慰你",
+        "id": "1844383857581359105",
+        "location": "Japan",
+        "name": "狂暴抽插习近平屁眼",
+        "pinned_tweet_id": "2060260180827472025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014319204158341120/hoi88m94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 90,
+          "like_count": 8130,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 7455
+        },
+        "username": "Gangbangxjp",
+        "verified": false
+      }
+    ]
+  }
+}

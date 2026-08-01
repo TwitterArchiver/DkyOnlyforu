@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2032527797730816275",
+    "created_at": "2026-03-14T14:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032831401301868982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839909876203696129",
+          "start": 0,
+          "username": "ezakiginhana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032831401301868982",
+    "in_reply_to_user_id": "1839909876203696129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032793010191393066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezakiginhana 呀嘞呀嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2032527797730816275",
+        "created_at": "2026-03-14T14:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032831401301868982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839909876203696129",
+              "start": 0,
+              "username": "ezakiginhana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032831401301868982",
+        "in_reply_to_user_id": "1839909876203696129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032793010191393066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezakiginhana 呀嘞呀嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839909876203696129",
+        "conversation_id": "2032527797730816275",
+        "created_at": "2026-03-14T12:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032793010191393066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032793010191393066",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032527797730816275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 喹硫平低剂量拮抗h1多一点 高剂量才转向da 5-ht调控 甚至会失眠 所以普遍超过400mg就会失眠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 379,
+          "like_count": 3321,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1527
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T06:08:05.000Z",
+        "description": "是礼物也是诅咒",
+        "id": "1839909876203696129",
+        "name": "知悯",
+        "pinned_tweet_id": "1973802887877964039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839933845820583939/wjpPt8Ib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 67,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "ezakiginhana",
+        "verified": false
+      }
+    ]
+  }
+}

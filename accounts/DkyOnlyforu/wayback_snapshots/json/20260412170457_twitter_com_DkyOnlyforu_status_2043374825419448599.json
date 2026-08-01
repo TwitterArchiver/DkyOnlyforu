@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2043323075958075608",
+    "created_at": "2026-04-12T17:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043374825419448599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994065921678430210",
+          "start": 0,
+          "username": "HuanAi0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043374825419448599",
+    "in_reply_to_user_id": "1994065921678430210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043323075958075608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuanAi0v0 舔鸡巴舔到一半我才发现我一开始只是想要个抱抱而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2043323075958075608",
+        "created_at": "2026-04-12T17:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043374825419448599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994065921678430210",
+              "start": 0,
+              "username": "HuanAi0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043374825419448599",
+        "in_reply_to_user_id": "1994065921678430210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043323075958075608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuanAi0v0 舔鸡巴舔到一半我才发现我一开始只是想要个抱抱而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994065921678430210",
+        "conversation_id": "2043323075958075608",
+        "created_at": "2026-04-12T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043323075958075608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043323075958075608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舔鸡巴舔到一半我才发现我一开始只是想要个抱抱而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 389,
+          "like_count": 4355,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1983
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T15:29:08.000Z",
+        "description": "˚‧*♡小猫＆主人の日记♡*·爱你们mua!想了解我看置顶/小助手 @eno1657315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "eno1657315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B9%BB%E6%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B9%BB%E6%84%9B",
+                "start": 0,
+                "url": "https://t.co/NfCP4JySp0"
+              }
+            ]
+          }
+        },
+        "id": "1994065921678430210",
+        "location": "有🚪/提问箱👉",
+        "name": "幻愛",
+        "pinned_tweet_id": "2037226204189626745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043319528591863808/N8xkfTGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4264,
+          "following_count": 35,
+          "like_count": 1302,
+          "listed_count": 9,
+          "media_count": 89,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/NfCP4JySp0",
+        "username": "HuanAi0v0",
+        "verified": false
+      }
+    ]
+  }
+}

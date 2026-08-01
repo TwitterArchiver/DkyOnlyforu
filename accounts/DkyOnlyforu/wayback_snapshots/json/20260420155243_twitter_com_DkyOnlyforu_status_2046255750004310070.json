@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2045494489792528688",
+    "created_at": "2026-04-20T15:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046255750004310070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492729295445237765",
+          "start": 0,
+          "username": "qiandaojiang201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046255750004310070",
+    "in_reply_to_user_id": "1492729295445237765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045946238416130200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiandaojiang201 我真不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2045494489792528688",
+        "created_at": "2026-04-20T15:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046255750004310070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492729295445237765",
+              "start": 0,
+              "username": "qiandaojiang201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046255750004310070",
+        "in_reply_to_user_id": "1492729295445237765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045946238416130200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiandaojiang201 我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492729295445237765",
+        "conversation_id": "2045494489792528688",
+        "created_at": "2026-04-19T19:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T20:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045946238416130200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045946238416130200",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045494489792528688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 左帅沙奋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 403,
+          "like_count": 4586,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2096
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T05:16:28.000Z",
+        "description": "啊呜",
+        "id": "1492729295445237765",
+        "name": "逃离互联网深水区中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009237530089017344/eiqsMS3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 119,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2463
+        },
+        "username": "qiandaojiang201",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2041178087837343857",
+    "created_at": "2026-04-06T15:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041183376301035561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266316422428258311",
+          "start": 0,
+          "username": "mania_chan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041183376301035561",
+    "in_reply_to_user_id": "1266316422428258311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041178087837343857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mania_chan_ 可能因为太少惹(&gt;﹏&lt;)要加了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2041178087837343857",
+        "created_at": "2026-04-06T15:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041183376301035561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266316422428258311",
+              "start": 0,
+              "username": "mania_chan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041183376301035561",
+        "in_reply_to_user_id": "1266316422428258311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041178087837343857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mania_chan_ 可能因为太少惹(&gt;﹏&lt;)要加了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266316422428258311",
+        "conversation_id": "2041178087837343857",
+        "created_at": "2026-04-06T15:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041178087837343857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041178087837343857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "9t玉梅怎么我飞不起来了\n是因为正经药量吃了一周吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039039493211381760/FL4fXkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 361,
+          "like_count": 4133,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1880
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T10:32:25.000Z",
+        "description": "🇨🇳\n中文/English/Français\n✍🏻Writer/🎶Composer\n🟦Asexual/Gender-neutral\n💊od/selfharm_cutting/psy\n✝️Christian",
+        "id": "1266316422428258311",
+        "location": "Heaven",
+        "name": "Licentious_Chirp_肆鳴_",
+        "pinned_tweet_id": "2024013576336212268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912137423183601666/Zh4Y8PXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 231,
+          "like_count": 2979,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 1843
+        },
+        "username": "mania_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

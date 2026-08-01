@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079916006169055232",
+        "3_2079916006173208576"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079916018642915725",
+    "created_at": "2026-07-22T13:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079916018642915725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cq9jNI2iYK",
+          "end": 52,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2079916018642915725/photo/1",
+          "media_key": "3_2079916006169055232",
+          "start": 29,
+          "url": "https://t.co/Cq9jNI2iYK"
+        },
+        {
+          "display_url": "pic.x.com/Cq9jNI2iYK",
+          "end": 52,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2079916018642915725/photo/1",
+          "media_key": "3_2079916006173208576",
+          "start": 29,
+          "url": "https://t.co/Cq9jNI2iYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079916018642915725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我们讨口子必须经历的好吧。打钱可以骂我（必须得满一块 https://t.co/Cq9jNI2iYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079916006169055232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1YlnZbEAAtFTi.jpg",
+        "width": 944
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2079916006173208576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1YlnaacAALYxr.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079916006169055232",
+            "3_2079916006173208576"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079916018642915725",
+        "created_at": "2026-07-22T13:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079916018642915725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cq9jNI2iYK",
+              "end": 52,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2079916018642915725/photo/1",
+              "media_key": "3_2079916006169055232",
+              "start": 29,
+              "url": "https://t.co/Cq9jNI2iYK"
+            },
+            {
+              "display_url": "pic.x.com/Cq9jNI2iYK",
+              "end": 52,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2079916018642915725/photo/1",
+              "media_key": "3_2079916006173208576",
+              "start": 29,
+              "url": "https://t.co/Cq9jNI2iYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079916018642915725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我们讨口子必须经历的好吧。打钱可以骂我（必须得满一块 https://t.co/Cq9jNI2iYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 493,
+          "like_count": 5588,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 2717
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

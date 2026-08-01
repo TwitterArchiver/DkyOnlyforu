@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2030845316577296735",
+    "created_at": "2026-03-09T12:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030988111405310088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963898646333964288",
+          "start": 0,
+          "username": "YUji09190706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030988111405310088",
+    "in_reply_to_user_id": "1963898646333964288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030967971544543544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUji09190706 求🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2030845316577296735",
+        "created_at": "2026-03-09T12:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030988111405310088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963898646333964288",
+              "start": 0,
+              "username": "YUji09190706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030988111405310088",
+        "in_reply_to_user_id": "1963898646333964288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030967971544543544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUji09190706 求🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963898646333964288",
+        "conversation_id": "2030845316577296735",
+        "created_at": "2026-03-09T11:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030967971544543544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030967971544543544",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 827,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030845316577296735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 能不能发明那种对着婊子的照片喷一下，婊子直接死的喷雾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 343,
+          "like_count": 3115,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1415
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T09:35:16.000Z",
+        "description": "🇨🇳ISFP💛I'm a girl. I'm a girl. I am a girlllllllllllllllll—— Besides, I love JoongDunk.",
+        "id": "1963898646333964288",
+        "name": "The bossy president is in love with me.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029606310501830662/GO56624E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 66,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 521
+        },
+        "username": "YUji09190706",
+        "verified": false
+      }
+    ]
+  }
+}

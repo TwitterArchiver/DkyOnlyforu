@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2080179485501194275",
+    "created_at": "2026-07-23T07:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080194165552697608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2064797820494987264",
+          "start": 0,
+          "username": "TuTnii9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080194165552697608",
+    "in_reply_to_user_id": "2064797820494987264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080187917381877908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTnii9 是对嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2080179485501194275",
+        "created_at": "2026-07-23T07:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080194165552697608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2064797820494987264",
+              "start": 0,
+              "username": "TuTnii9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080194165552697608",
+        "in_reply_to_user_id": "2064797820494987264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080187917381877908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTnii9 是对嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064797820494987264",
+        "conversation_id": "2080179485501194275",
+        "created_at": "2026-07-23T07:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080187917381877908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080187917381877908",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080179485501194275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 我就是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 497,
+          "like_count": 5695,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2771
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T19:53:24.000Z",
+        "description": "life is…(๑-ㅅ-๑)",
+        "id": "2064797820494987264",
+        "location": "不加v 无🚪",
+        "name": "吴是温",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080155434330279936/WZAl4g_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 20,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "TuTnii9",
+        "verified": false
+      }
+    ]
+  }
+}

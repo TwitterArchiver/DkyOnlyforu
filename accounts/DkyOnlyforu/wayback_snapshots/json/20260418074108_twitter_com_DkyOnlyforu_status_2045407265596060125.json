@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2045369974399857003",
+    "created_at": "2026-04-18T07:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045407265596060125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023104110380064768",
+          "start": 0,
+          "username": "_alcoholitrix_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045407265596060125",
+    "in_reply_to_user_id": "2023104110380064768",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045403767445520727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_alcoholitrix_ 🥰thanks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2045369974399857003",
+        "created_at": "2026-04-18T07:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045407265596060125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023104110380064768",
+              "start": 0,
+              "username": "_alcoholitrix_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045407265596060125",
+        "in_reply_to_user_id": "2023104110380064768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045403767445520727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_alcoholitrix_ 🥰thanks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023104110380064768",
+        "conversation_id": "2045369974399857003",
+        "created_at": "2026-04-18T07:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045403767445520727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045403767445520727",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045369974399857003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu you're so cute, please take care of that cuts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 397,
+          "like_count": 4533,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2071
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T18:36:30.000Z",
+        "description": "bleh 🤮\n\nhttps://t.co/dswJPs8lL9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/RxFelipx",
+                "end": 31,
+                "expanded_url": "https://www.last.fm/user/RxFelipx",
+                "start": 8,
+                "url": "https://t.co/dswJPs8lL9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vsco.co/RxFelipx/galle…",
+                "end": 23,
+                "expanded_url": "http://vsco.co/RxFelipx/gallery",
+                "start": 0,
+                "url": "https://t.co/tpyjIYB8j8"
+              }
+            ]
+          }
+        },
+        "id": "2023104110380064768",
+        "location": "Brazil 🇧🇷",
+        "name": "ℝ𝔽 | 1st Child",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036554434201686016/CnGKreMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/tpyjIYB8j8",
+        "username": "_alcoholitrix_",
+        "verified": false
+      }
+    ]
+  }
+}

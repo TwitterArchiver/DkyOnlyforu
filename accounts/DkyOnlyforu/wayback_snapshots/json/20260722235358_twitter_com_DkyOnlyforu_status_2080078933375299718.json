@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079921501328064660",
+    "created_at": "2026-07-22T23:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080078933375299718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800510193790586880",
+          "start": 0,
+          "username": "sharuangun8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080078933375299718",
+    "in_reply_to_user_id": "1800510193790586880",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079977794206134628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharuangun8964 mua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079921501328064660",
+        "created_at": "2026-07-22T23:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080078933375299718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800510193790586880",
+              "start": 0,
+              "username": "sharuangun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080078933375299718",
+        "in_reply_to_user_id": "1800510193790586880",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079977794206134628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharuangun8964 mua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800510193790586880",
+        "conversation_id": "2079921501328064660",
+        "created_at": "2026-07-22T17:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079977794206134628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079977794206134628",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079921501328064660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 可爱哟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 494,
+          "like_count": 5658,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 2753
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T12:47:37.000Z",
+        "description": "关于反跳的疼痛与失眠",
+        "id": "1800510193790586880",
+        "name": "你媽死了",
+        "pinned_tweet_id": "2034669082348323186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079588614921736192/pbCLf2RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 108,
+          "like_count": 2398,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1534
+        },
+        "url": "",
+        "username": "sharuangun8964",
+        "verified": false
+      }
+    ]
+  }
+}

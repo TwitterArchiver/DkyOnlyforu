@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2070068752226586720",
+    "created_at": "2026-06-26T02:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070329932048453975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942905765976748032",
+          "start": 0,
+          "username": "zishu2696544661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070329932048453975",
+    "in_reply_to_user_id": "1942905765976748032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070260559258206418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zishu2696544661 开电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2070068752226586720",
+        "created_at": "2026-06-26T02:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070329932048453975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942905765976748032",
+              "start": 0,
+              "username": "zishu2696544661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070329932048453975",
+        "in_reply_to_user_id": "1942905765976748032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070260559258206418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zishu2696544661 开电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942905765976748032",
+        "conversation_id": "2070068752226586720",
+        "created_at": "2026-06-25T21:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070260559258206418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070260559258206418",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070068752226586720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 我马上给我爸联系戒网瘾学校"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 476,
+          "like_count": 5351,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2621
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T11:17:00.000Z",
+        "description": "19岁/无证含糖/有对象咯/会od自残/有抑郁症/躁狂症/天天想着怎么死/受虐狂/喜欢有人找我玩",
+        "id": "1942905765976748032",
+        "name": "崽崽🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1959450145067802944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053851745839722496/cmRIn3wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 274,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "zishu2696544661",
+        "verified": false
+      }
+    ]
+  }
+}

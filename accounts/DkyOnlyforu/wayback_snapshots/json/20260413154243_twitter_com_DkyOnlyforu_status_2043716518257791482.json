@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2043673229689332216",
+    "created_at": "2026-04-13T15:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043716518257791482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1791348768690089984",
+          "start": 0,
+          "username": "saya8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043716518257791482",
+    "in_reply_to_user_id": "1791348768690089984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043703223471767701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya8964cat 申请通过✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2043673229689332216",
+        "created_at": "2026-04-13T15:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043716518257791482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043716518257791482",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043703223471767701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya8964cat 申请通过✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791348768690089984",
+        "conversation_id": "2043673229689332216",
+        "created_at": "2026-04-13T14:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043703223471767701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043703223471767701",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043673229689332216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 你好！申请一下（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 387,
+          "like_count": 4407,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1999
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "这里是沙夜，顺男，esfj，1i，互fo请评论，我查一下主页，魔法使い🐈@owl8964cat (^з^)-☆ ngl匿名提问箱： https://t.co/0Uo3DcWNBu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "owl8964cat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sa%E2%80%86ya%…",
+                "end": 89,
+                "expanded_url": "https://ngl.link/sa%E2%80%86ya%E2%80%86ca%E2%80%86t",
+                "start": 66,
+                "url": "https://t.co/0Uo3DcWNBu"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "アモイ",
+        "name": "🍎天の川紗夜⭐️",
+        "pinned_tweet_id": "2023785537270935681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973424771590410240/2BBwS0ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1210,
+          "like_count": 101015,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 42459
+        },
+        "username": "saya8964cat",
+        "verified": false
+      }
+    ]
+  }
+}

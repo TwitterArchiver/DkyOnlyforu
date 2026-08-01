@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079857807856435292",
+    "created_at": "2026-07-23T13:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080283254087921811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044442977104228353",
+          "start": 0,
+          "username": "ep50z_h"
+        },
+        {
+          "end": 22,
+          "id": "1943336256521539584",
+          "start": 9,
+          "username": "EElinlin0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080283254087921811",
+    "in_reply_to_user_id": "2044442977104228353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080176958906802615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ep50z_h @EElinlin0612 哎呀(♯｀∧´)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079857807856435292",
+        "created_at": "2026-07-23T13:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080283254087921811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044442977104228353",
+              "start": 0,
+              "username": "ep50z_h"
+            },
+            {
+              "end": 22,
+              "id": "1943336256521539584",
+              "start": 9,
+              "username": "EElinlin0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080283254087921811",
+        "in_reply_to_user_id": "2044442977104228353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080176958906802615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ep50z_h @EElinlin0612 哎呀(♯｀∧´)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044442977104228353",
+        "conversation_id": "2079857807856435292",
+        "created_at": "2026-07-23T06:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080176958906802615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            },
+            {
+              "end": 26,
+              "id": "1943336256521539584",
+              "start": 13,
+              "username": "EElinlin0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080176958906802615",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080175752117633239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu @EElinlin0612 我笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 499,
+          "like_count": 5733,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2784
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T15:49:42.000Z",
+        "description": "专心经营我的萌萌生活🩷",
+        "id": "2044442977104228353",
+        "name": "(☆^ー^☆)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064199362184413184/JDKq3pea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 32,
+          "like_count": 6232,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "ep50z_h",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T15:47:56.000Z",
+        "description": "下辈子躲在避孕套里，不要被命运找到",
+        "id": "1943336256521539584",
+        "location": "处女，🚪",
+        "name": "白咪饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079801198799130624/CeAcDbg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 38,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "EElinlin0612",
+        "verified": false
+      }
+    ]
+  }
+}

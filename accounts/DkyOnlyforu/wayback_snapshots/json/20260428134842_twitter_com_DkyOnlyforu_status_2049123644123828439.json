@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049123628252639232",
+        "3_2049123628248350721"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2049123644123828439",
+    "created_at": "2026-04-28T13:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049123644123828439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nwhXZKDCnz",
+          "end": 30,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2049123644123828439/photo/1",
+          "media_key": "3_2049123628252639232",
+          "start": 7,
+          "url": "https://t.co/nwhXZKDCnz"
+        },
+        {
+          "display_url": "pic.x.com/nwhXZKDCnz",
+          "end": 30,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2049123644123828439/photo/1",
+          "media_key": "3_2049123628248350721",
+          "start": 7,
+          "url": "https://t.co/nwhXZKDCnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049123644123828439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "驯服了gpt https://t.co/nwhXZKDCnz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049123628252639232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_zFUrbsAAOeQV.jpg",
+        "width": 819
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2049123628248350721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_zFUqaQAEiwtC.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049123628252639232",
+            "3_2049123628248350721"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2049123644123828439",
+        "created_at": "2026-04-28T13:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049123644123828439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwhXZKDCnz",
+              "end": 30,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2049123644123828439/photo/1",
+              "media_key": "3_2049123628252639232",
+              "start": 7,
+              "url": "https://t.co/nwhXZKDCnz"
+            },
+            {
+              "display_url": "pic.x.com/nwhXZKDCnz",
+              "end": 30,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2049123644123828439/photo/1",
+              "media_key": "3_2049123628248350721",
+              "start": 7,
+              "url": "https://t.co/nwhXZKDCnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049123644123828439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驯服了gpt https://t.co/nwhXZKDCnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 417,
+          "like_count": 4625,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2128
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

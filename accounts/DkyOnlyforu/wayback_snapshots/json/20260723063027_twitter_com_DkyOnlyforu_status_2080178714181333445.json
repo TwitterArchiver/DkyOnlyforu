@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2080178714181333445",
+    "created_at": "2026-07-23T06:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080178714181333445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dkyonlyforu/st…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/dkyonlyforu/status/2079402272208117877",
+          "start": 58,
+          "url": "https://t.co/5LWMA7rK3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080178714181333445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079402272208117877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行你厉害行了吧你不烦你不贱你不脑残你不恶心行了吧我敢承认我是脑残你敢承认吗  所有人问我我都能毫无负担的说出来好吧 https://t.co/5LWMA7rK3G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2080178714181333445",
+        "created_at": "2026-07-23T06:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080178714181333445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dkyonlyforu/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/dkyonlyforu/status/2079402272208117877",
+              "start": 58,
+              "url": "https://t.co/5LWMA7rK3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080178714181333445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079402272208117877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行你厉害行了吧你不烦你不贱你不脑残你不恶心行了吧我敢承认我是脑残你敢承认吗  所有人问我我都能毫无负担的说出来好吧 https://t.co/5LWMA7rK3G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079402272208117877",
+        "created_at": "2026-07-21T03:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079402272208117877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079402272208117877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 129799,
+          "like_count": 3512,
+          "quote_count": 23,
+          "reply_count": 224,
+          "retweet_count": 466
+        },
+        "reply_settings": "everyone",
+        "text": "大人好贱 小孩好烦 男的恶心 女的脑残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 497,
+          "like_count": 5689,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 2767
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

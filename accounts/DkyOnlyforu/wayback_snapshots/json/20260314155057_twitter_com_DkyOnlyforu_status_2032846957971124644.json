@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032846950161399808"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2032843037886525773",
+    "created_at": "2026-03-14T15:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032846957971124644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965644551605157889",
+          "start": 0,
+          "username": "AAAAbaiSir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/srYGU1euRb",
+          "end": 40,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2032846957971124644/photo/1",
+          "media_key": "3_2032846950161399808",
+          "start": 17,
+          "url": "https://t.co/srYGU1euRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032846957971124644",
+    "in_reply_to_user_id": "1965644551605157889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032845796329271641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAAAbaiSir 😡😡😡😡 https://t.co/srYGU1euRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032846950161399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYfh9sbQAA9t6_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032846950161399808"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032843037886525773",
+        "created_at": "2026-03-14T15:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032846957971124644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965644551605157889",
+              "start": 0,
+              "username": "AAAAbaiSir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/srYGU1euRb",
+              "end": 40,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2032846957971124644/photo/1",
+              "media_key": "3_2032846950161399808",
+              "start": 17,
+              "url": "https://t.co/srYGU1euRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032846957971124644",
+        "in_reply_to_user_id": "1965644551605157889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032845796329271641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAAAbaiSir 😡😡😡😡 https://t.co/srYGU1euRb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965644551605157889",
+        "conversation_id": "2032843037886525773",
+        "created_at": "2026-03-14T15:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032845796329271641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032845796329271641",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032843037886525773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 看看臭干子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 381,
+          "like_count": 3332,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1535
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T05:12:56.000Z",
+        "description": "",
+        "id": "1965644551605157889",
+        "name": "AAACGO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997923491295744000/ciHKgky1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 437,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "AAAAbaiSir",
+        "verified": false
+      }
+    ]
+  }
+}

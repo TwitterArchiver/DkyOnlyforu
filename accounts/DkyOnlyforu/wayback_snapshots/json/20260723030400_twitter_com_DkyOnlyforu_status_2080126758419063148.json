@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079951019858096635",
+    "created_at": "2026-07-23T03:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080126758419063148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1642149047858524160",
+          "start": 0,
+          "username": "Love7010526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080126758419063148",
+    "in_reply_to_user_id": "1642149047858524160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080125175375511765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love7010526 当然哦坤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079951019858096635",
+        "created_at": "2026-07-23T03:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080126758419063148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1642149047858524160",
+              "start": 0,
+              "username": "Love7010526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080126758419063148",
+        "in_reply_to_user_id": "1642149047858524160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080125175375511765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love7010526 当然哦坤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642149047858524160",
+        "conversation_id": "2079951019858096635",
+        "created_at": "2026-07-23T02:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080125175375511765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080125175375511765",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079951019858096635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 老大礼貌问可以拿文案吗o(^▽^)o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 497,
+          "like_count": 5678,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 2759
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T12:57:12.000Z",
+        "description": "给我一张过去的CD",
+        "id": "1642149047858524160",
+        "name": "7🍁",
+        "pinned_tweet_id": "2012917952463380898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981400092138512384/UKwUTUkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 185,
+          "like_count": 1225,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1862
+        },
+        "url": "",
+        "username": "Love7010526",
+        "verified": false
+      }
+    ]
+  }
+}

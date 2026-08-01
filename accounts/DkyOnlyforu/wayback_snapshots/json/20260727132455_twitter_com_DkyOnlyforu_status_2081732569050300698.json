@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2081693390136307834",
+    "created_at": "2026-07-27T13:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081732569050300698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672783722100269056",
+          "start": 0,
+          "username": "Fxxwzzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081732569050300698",
+    "in_reply_to_user_id": "1672783722100269056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081693390136307834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fxxwzzzz 好伟大的脸.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081693263485075456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOo_m1aAAAapQU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2081693390136307834",
+        "created_at": "2026-07-27T13:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081732569050300698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672783722100269056",
+              "start": 0,
+              "username": "Fxxwzzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081732569050300698",
+        "in_reply_to_user_id": "1672783722100269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081693390136307834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fxxwzzzz 好伟大的脸.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081693263485075456"
+          ]
+        },
+        "author_id": "1672783722100269056",
+        "conversation_id": "2081693390136307834",
+        "created_at": "2026-07-27T10:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081693390136307834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTndxQXEBX",
+              "end": 30,
+              "expanded_url": "https://x.com/Fxxwzzzz/status/2081693390136307834/photo/1",
+              "media_key": "3_2081693263485075456",
+              "start": 7,
+              "url": "https://t.co/oTndxQXEBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081693390136307834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗咖好玩🤗🤗 https://t.co/oTndxQXEBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 494,
+          "like_count": 5870,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 2846
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T01:48:19.000Z",
+        "description": "",
+        "id": "1672783722100269056",
+        "name": "Demon_Fxxwzzzz_x2nd",
+        "pinned_tweet_id": "1972671933704470952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023077647690211328/RyOsL0nh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 301,
+          "like_count": 315,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "Fxxwzzzz",
+        "verified": false
+      }
+    ]
+  }
+}

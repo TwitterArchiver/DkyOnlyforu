@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062749969837428736",
+        "3_2062749969833238528"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062749977940807718",
+    "created_at": "2026-06-05T04:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062749977940807718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kMujZvlmrx",
+          "end": 29,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2062749977940807718/photo/1",
+          "media_key": "3_2062749969837428736",
+          "start": 6,
+          "url": "https://t.co/kMujZvlmrx"
+        },
+        {
+          "display_url": "pic.x.com/kMujZvlmrx",
+          "end": 29,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2062749977940807718/photo/1",
+          "media_key": "3_2062749969833238528",
+          "start": 6,
+          "url": "https://t.co/kMujZvlmrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062749977940807718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "18t玉米 https://t.co/kMujZvlmrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062749969837428736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBcKyybkAAIRV4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062749969833238528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBcKyxboAA4RS0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062749969837428736",
+            "3_2062749969833238528"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062749977940807718",
+        "created_at": "2026-06-05T04:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062749977940807718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMujZvlmrx",
+              "end": 29,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2062749977940807718/photo/1",
+              "media_key": "3_2062749969837428736",
+              "start": 6,
+              "url": "https://t.co/kMujZvlmrx"
+            },
+            {
+              "display_url": "pic.x.com/kMujZvlmrx",
+              "end": 29,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2062749977940807718/photo/1",
+              "media_key": "3_2062749969833238528",
+              "start": 6,
+              "url": "https://t.co/kMujZvlmrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062749977940807718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18t玉米 https://t.co/kMujZvlmrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 455,
+          "like_count": 5174,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 2473
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

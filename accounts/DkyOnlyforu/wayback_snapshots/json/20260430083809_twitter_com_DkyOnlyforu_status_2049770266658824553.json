@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2049488739911774683",
+    "created_at": "2026-04-30T08:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049770266658824553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960974569722011648",
+          "start": 0,
+          "username": "xiaokou100204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049770266658824553",
+    "in_reply_to_user_id": "1960974569722011648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049769646900019206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokou100204 嘿嘿并非呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2049488739911774683",
+        "created_at": "2026-04-30T08:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049770266658824553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960974569722011648",
+              "start": 0,
+              "username": "xiaokou100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049770266658824553",
+        "in_reply_to_user_id": "1960974569722011648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049769646900019206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokou100204 嘿嘿并非呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960974569722011648",
+        "conversation_id": "2049488739911774683",
+        "created_at": "2026-04-30T08:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049769646900019206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049769646900019206",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049488739911774683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 老大，我们这样天天o是不是不会感冒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 424,
+          "like_count": 4737,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2186
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T07:55:54.000Z",
+        "description": "只回有礼貌的私信",
+        "id": "1960974569722011648",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "扌口口口",
+        "pinned_tweet_id": "1999818853568684236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992753360542576640/t7fAk0i8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 10,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 721
+        },
+        "username": "xiaokou100204",
+        "verified": false
+      }
+    ]
+  }
+}

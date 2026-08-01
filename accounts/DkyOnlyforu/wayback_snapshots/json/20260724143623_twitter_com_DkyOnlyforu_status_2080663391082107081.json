@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2080579631024128192",
+    "created_at": "2026-07-24T14:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080663391082107081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056637082974773251",
+          "start": 0,
+          "username": "jokerjcea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080663391082107081",
+    "in_reply_to_user_id": "2056637082974773251",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080593449435484328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jokerjcea 😮‍💨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2080579631024128192",
+        "created_at": "2026-07-24T14:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080663391082107081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056637082974773251",
+              "start": 0,
+              "username": "jokerjcea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080663391082107081",
+        "in_reply_to_user_id": "2056637082974773251",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080593449435484328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jokerjcea 😮‍💨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056637082974773251",
+        "conversation_id": "2080579631024128192",
+        "created_at": "2026-07-24T09:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080593449435484328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080593449435484328",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080579631024128192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 辽宁有吗？我也想去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 498,
+          "like_count": 5778,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2806
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T07:26:30.000Z",
+        "description": "",
+        "id": "2056637082974773251",
+        "name": "下午好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059704034127491072/ExM3gBHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "jokerjcea",
+        "verified": false
+      }
+    ]
+  }
+}

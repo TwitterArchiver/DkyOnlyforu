@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2069420609323540975",
+    "created_at": "2026-06-24T03:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069628525628510577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037583874663063552",
+          "start": 0,
+          "username": "dengseng6498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069628525628510577",
+    "in_reply_to_user_id": "2037583874663063552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069614318921175201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengseng6498 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2069420609323540975",
+        "created_at": "2026-06-24T03:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069628525628510577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037583874663063552",
+              "start": 0,
+              "username": "dengseng6498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069628525628510577",
+        "in_reply_to_user_id": "2037583874663063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069614318921175201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengseng6498 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037583874663063552",
+        "conversation_id": "2069420609323540975",
+        "created_at": "2026-06-24T02:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069614318921175201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069614318921175201",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069420609323540975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 第二张图是一个上吊的人死后，蛆直接长满整个房间是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 459,
+          "like_count": 5277,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 2581
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T17:35:51.000Z",
+        "description": "纯冲浪",
+        "id": "2037583874663063552",
+        "location": "香港",
+        "name": "dengsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037584681022210048/lHRTQWpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "dengseng6498",
+        "verified": false
+      }
+    ]
+  }
+}

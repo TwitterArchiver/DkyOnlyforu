@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2080021361616195951",
+    "created_at": "2026-07-23T04:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080154051241812138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958763385358884865",
+          "start": 0,
+          "username": "nikochin0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080154051241812138",
+    "in_reply_to_user_id": "1958763385358884865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080021361616195951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikochin0000 你骂我母狗，婊子，都没用，这就是我平时的自称"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2080021361616195951",
+        "created_at": "2026-07-23T04:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080154051241812138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958763385358884865",
+              "start": 0,
+              "username": "nikochin0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080154051241812138",
+        "in_reply_to_user_id": "1958763385358884865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080021361616195951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikochin0000 你骂我母狗，婊子，都没用，这就是我平时的自称"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958763385358884865",
+        "conversation_id": "2080021361616195951",
+        "created_at": "2026-07-22T20:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T21:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080021361616195951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080021361616195951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你骂我母狗，婊子，都没用，这就是我平时的自称"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 497,
+          "like_count": 5685,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T05:29:50.000Z",
+        "description": "",
+        "id": "1958763385358884865",
+        "name": "ニコチン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035730465236320256/j2_husjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 101,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "nikochin0000",
+        "verified": false
+      }
+    ]
+  }
+}

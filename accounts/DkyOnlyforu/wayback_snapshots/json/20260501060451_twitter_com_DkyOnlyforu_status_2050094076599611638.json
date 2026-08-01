@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2049569129158595066",
+    "created_at": "2026-05-01T06:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050094076599611638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994065921678430210",
+          "start": 0,
+          "username": "HuanAi0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050094076599611638",
+    "in_reply_to_user_id": "1994065921678430210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049913613826105614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuanAi0v0 ↖(^ω^)↗我来夹哭泥了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2049569129158595066",
+        "created_at": "2026-05-01T06:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050094076599611638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994065921678430210",
+              "start": 0,
+              "username": "HuanAi0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050094076599611638",
+        "in_reply_to_user_id": "1994065921678430210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049913613826105614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuanAi0v0 ↖(^ω^)↗我来夹哭泥了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994065921678430210",
+        "conversation_id": "2049569129158595066",
+        "created_at": "2026-04-30T18:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049913613826105614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049913613826105614",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049569129158595066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 我是男神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 428,
+          "like_count": 4758,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2201
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T15:29:08.000Z",
+        "description": "˚‧*♡小猫＆主人の友友圈♡*·小助手 @eno1657315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "eno1657315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B9%BB%E6%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B9%BB%E6%84%9B",
+                "start": 0,
+                "url": "https://t.co/NfCP4Jzqey"
+              }
+            ]
+          }
+        },
+        "id": "1994065921678430210",
+        "location": "很少看私信不要骚扰我/NGL👇",
+        "name": "幻愛",
+        "pinned_tweet_id": "2046451639083544723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048036749339766784/0P1kD-p9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4852,
+          "following_count": 33,
+          "like_count": 1346,
+          "listed_count": 8,
+          "media_count": 94,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/NfCP4Jzqey",
+        "username": "HuanAi0v0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2080579631024128192",
+    "created_at": "2026-07-25T01:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080829953634161094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1759882320239308800",
+          "start": 0,
+          "username": "t_c6688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080829953634161094",
+    "in_reply_to_user_id": "1759882320239308800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080738493966495992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t_c6688 我现在完全在倒贴实习我都哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2080579631024128192",
+        "created_at": "2026-07-25T01:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080829953634161094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1759882320239308800",
+              "start": 0,
+              "username": "t_c6688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080829953634161094",
+        "in_reply_to_user_id": "1759882320239308800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080738493966495992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t_c6688 我现在完全在倒贴实习我都哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759882320239308800",
+        "conversation_id": "2080579631024128192",
+        "created_at": "2026-07-24T19:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080738493966495992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080738493966495992",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080579631024128192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 好好工作不行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 497,
+          "like_count": 5805,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 2819
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T10:07:04.000Z",
+        "description": "",
+        "id": "1759882320239308800",
+        "name": "辞久",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065423346771357696/iOQm5NNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "t_c6688",
+        "verified": false
+      }
+    ]
+  }
+}

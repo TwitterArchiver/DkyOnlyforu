@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2063871571580874882",
+    "created_at": "2026-06-08T06:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063871571580874882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wanwanzuikenai…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/wanwanzuikenai/status/2062951980922966232",
+          "start": 28,
+          "url": "https://t.co/A09iExRlOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063871571580874882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062951980922966232",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们以为门槛妹赚的很多吗。我已经快两个月没收到门槛了， https://t.co/A09iExRlOK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2063871571580874882",
+        "created_at": "2026-06-08T06:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063871571580874882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanwanzuikenai…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/wanwanzuikenai/status/2062951980922966232",
+              "start": 28,
+              "url": "https://t.co/A09iExRlOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063871571580874882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062951980922966232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们以为门槛妹赚的很多吗。我已经快两个月没收到门槛了， https://t.co/A09iExRlOK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031370860838445056",
+        "conversation_id": "2062951980922966232",
+        "created_at": "2026-06-05T17:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062951980922966232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062951980922966232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33981,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们以为门槛妹赚的很多吗。我已经快两个月没收到门槛了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 459,
+          "like_count": 5238,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 2525
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T14:06:48.000Z",
+        "description": "唉 我什么时候才可以火\n我很努力的小时候还戴过红领巾",
+        "id": "2031370860838445056",
+        "location": "🚪188/288/888/1314/5200 直接发口令",
+        "name": "丸丸",
+        "pinned_tweet_id": "2051910846419460120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031733242400067584/Dp38w6JZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7036,
+          "following_count": 98,
+          "like_count": 517,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 109
+        },
+        "username": "wanwanzuikenai",
+        "verified": false
+      }
+    ]
+  }
+}

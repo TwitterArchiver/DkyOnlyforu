@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043375236633280512"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2043375239342723186",
+    "created_at": "2026-04-12T17:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043375239342723186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+          "display_url": "infinitetweet.me/secret-stalker…",
+          "end": 47,
+          "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "start": 24,
+          "status": 200,
+          "title": "Secret Stalkers • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+          "url": "https://t.co/teNrsZ5CQF"
+        },
+        {
+          "display_url": "pic.x.com/e06fyvl0Ez",
+          "end": 71,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2043375239342723186/photo/1",
+          "media_key": "3_2043375236633280512",
+          "start": 48,
+          "url": "https://t.co/e06fyvl0Ez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043375239342723186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/teNrsZ5CQF https://t.co/e06fyvl0Ez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2043375236633280512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuG85JbQAA4vNr.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043375236633280512"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2043375239342723186",
+        "created_at": "2026-04-12T17:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043375239342723186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/teNrsZ5CQF"
+            },
+            {
+              "display_url": "pic.x.com/e06fyvl0Ez",
+              "end": 71,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2043375239342723186/photo/1",
+              "media_key": "3_2043375236633280512",
+              "start": 48,
+              "url": "https://t.co/e06fyvl0Ez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043375239342723186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/teNrsZ5CQF https://t.co/e06fyvl0Ez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 393,
+          "like_count": 4356,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1984
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

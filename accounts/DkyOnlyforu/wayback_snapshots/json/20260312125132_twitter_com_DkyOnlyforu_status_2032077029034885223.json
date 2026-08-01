@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2016897807194694130",
+    "created_at": "2026-03-12T12:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032077029034885223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1379056584114851844",
+          "start": 0,
+          "username": "dancingghost7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032077029034885223",
+    "in_reply_to_user_id": "1379056584114851844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032056364735066341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dancingghost7 我会一直发傻逼文案可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2016897807194694130",
+        "created_at": "2026-03-12T12:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032077029034885223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1379056584114851844",
+              "start": 0,
+              "username": "dancingghost7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032077029034885223",
+        "in_reply_to_user_id": "1379056584114851844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032056364735066341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dancingghost7 我会一直发傻逼文案可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379056584114851844",
+        "conversation_id": "2016897807194694130",
+        "created_at": "2026-03-12T11:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032056364735066341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032056364735066341",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016897807194694130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 多少钱啊，朋友圈会更新三次日常吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 367,
+          "like_count": 3284,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1503
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-05T13:01:35.000Z",
+        "description": "。",
+        "id": "1379056584114851844",
+        "name": "dancingghost",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379056838109405184/GHWbZ29e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 26,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "dancingghost7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2035003760897138902",
+    "created_at": "2026-03-20T15:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035019970955063383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910758063453462528",
+          "start": 0,
+          "username": "fuckisalone8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035019970955063383",
+    "in_reply_to_user_id": "1910758063453462528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035013637187018932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckisalone8964 我支持😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2035003760897138902",
+        "created_at": "2026-03-20T15:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035019970955063383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910758063453462528",
+              "start": 0,
+              "username": "fuckisalone8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035019970955063383",
+        "in_reply_to_user_id": "1910758063453462528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035013637187018932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckisalone8964 我支持😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910758063453462528",
+        "conversation_id": "2035003760897138902",
+        "created_at": "2026-03-20T15:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035013637187018932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035013637187018932",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035003760897138902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 整天11111傻逼吧他爹被1操死了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 426,
+          "like_count": 3704,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 1730
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T18:13:29.000Z",
+        "description": "switch 爱人TV观看者 喜欢乱讲话 不太关注人如果关注你了说明我很崇拜你么么哒 欢迎互fo 和赵露思一起懵逼的活着 别在我这里贴脸骂她 她帮我老家的老人卖出去了很多东西",
+        "id": "1910758063453462528",
+        "location": "距离你2.713km",
+        "name": "操纵欲",
+        "pinned_tweet_id": "2021879986605678752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010658746867896320/OTJHP34H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 133,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1416
+        },
+        "username": "fuckisalone8964",
+        "verified": false
+      }
+    ]
+  }
+}

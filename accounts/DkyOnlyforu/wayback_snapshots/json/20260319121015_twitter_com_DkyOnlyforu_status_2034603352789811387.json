@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2034218960707850711",
+    "created_at": "2026-03-19T12:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034603352789811387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1968319030550523904",
+          "start": 0,
+          "username": "Landyyyiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034603352789811387",
+    "in_reply_to_user_id": "1968319030550523904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034579891388403954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Landyyyiii 淘汰了、！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2034218960707850711",
+        "created_at": "2026-03-19T12:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034603352789811387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1968319030550523904",
+              "start": 0,
+              "username": "Landyyyiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034603352789811387",
+        "in_reply_to_user_id": "1968319030550523904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034579891388403954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Landyyyiii 淘汰了、！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968319030550523904",
+        "conversation_id": "2034218960707850711",
+        "created_at": "2026-03-19T10:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034579891388403954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034579891388403954",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034218960707850711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 希望蛋仔的实力不要和真正玩游戏的实力匹配🥲不然可能还没等我用咸鱼打到别人，自己就先被扇飞了，心酸得要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 413,
+          "like_count": 3561,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 1662
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T14:20:16.000Z",
+        "description": "提灯夜游\n\n爱讲废话的鼠鼠 / meme收藏家 / 高强度talk / 活力和阴暗交替出现 / 和有趣的人聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/landyyyiii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/landyyyiii",
+                "start": 0,
+                "url": "https://t.co/uOCVA90ZIi"
+              }
+            ]
+          }
+        },
+        "id": "1968319030550523904",
+        "name": "Landyyyiii",
+        "pinned_tweet_id": "2001323052702085225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974902089706057729/pzTZRizg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 210,
+          "like_count": 17877,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1441
+        },
+        "url": "https://t.co/uOCVA90ZIi",
+        "username": "Landyyyiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2079954475981451454",
+    "created_at": "2026-07-22T15:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079957628311240894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767500484510879744",
+          "start": 0,
+          "username": "duofulin48996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079957628311240894",
+    "in_reply_to_user_id": "1767500484510879744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079957266397315144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duofulin48996 猪儿肚肚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079954475981451454",
+        "created_at": "2026-07-22T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079957628311240894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767500484510879744",
+              "start": 0,
+              "username": "duofulin48996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079957628311240894",
+        "in_reply_to_user_id": "1767500484510879744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079957266397315144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duofulin48996 猪儿肚肚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767500484510879744",
+        "conversation_id": "2079954475981451454",
+        "created_at": "2026-07-22T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079957266397315144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079957266397315144",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079954475981451454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 好美味的肚肚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 494,
+          "like_count": 5636,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 2746
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T10:39:00.000Z",
+        "description": "我是林林，感谢你的喜欢\n男娘/ddlc/无小号/欢迎同好交友\n🚪98解锁好友位",
+        "id": "1767500484510879744",
+        "name": "1linlin",
+        "pinned_tweet_id": "2070129350977142849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809827338449797120/8MurNs6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12543,
+          "following_count": 194,
+          "like_count": 922,
+          "listed_count": 47,
+          "media_count": 74,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "duofulin48996",
+        "verified": false
+      }
+    ]
+  }
+}

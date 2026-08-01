@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2031645129606648304",
+    "created_at": "2026-03-11T15:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031750742898528600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560566539182653442",
+          "start": 0,
+          "username": "sh1n_shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031750742898528600",
+    "in_reply_to_user_id": "1560566539182653442",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031710460278710457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh1n_shi 感谢蛋蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2031645129606648304",
+        "created_at": "2026-03-11T15:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031750742898528600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560566539182653442",
+              "start": 0,
+              "username": "sh1n_shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031750742898528600",
+        "in_reply_to_user_id": "1560566539182653442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031710460278710457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh1n_shi 感谢蛋蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560566539182653442",
+        "conversation_id": "2031645129606648304",
+        "created_at": "2026-03-11T12:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031710460278710457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031710460278710457",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031645129606648304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 好的，蛋蛋你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 361,
+          "like_count": 3248,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1473
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T09:57:25.000Z",
+        "description": "是个低俗的人，没有脱离低级趣味的人，自私的人。",
+        "id": "1560566539182653442",
+        "location": "长沙",
+        "name": "咚咚咚咚咚酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560566600398524416/Wpr_vLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 44,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 707
+        },
+        "username": "sh1n_shi",
+        "verified": false
+      }
+    ]
+  }
+}

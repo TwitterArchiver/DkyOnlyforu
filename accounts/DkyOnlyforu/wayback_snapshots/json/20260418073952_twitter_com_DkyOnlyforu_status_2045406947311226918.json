@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2045352261258555460",
+    "created_at": "2026-04-18T07:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045406947311226918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        },
+        {
+          "end": 26,
+          "id": "1953158377103589376",
+          "start": 17,
+          "username": "zzjhzzjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045406947311226918",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045359522412396779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 @zzjhzzjh 我竟有一丝看不懂中文难道我是日本人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2045359512518033408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKTo82agAAcy3T.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2045352261258555460",
+        "created_at": "2026-04-18T07:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045406947311226918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            },
+            {
+              "end": 26,
+              "id": "1953158377103589376",
+              "start": 17,
+              "username": "zzjhzzjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045406947311226918",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045359522412396779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 @zzjhzzjh 我竟有一丝看不懂中文难道我是日本人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045359512518033408"
+          ]
+        },
+        "author_id": "2013875219392585728",
+        "conversation_id": "2045352261258555460",
+        "created_at": "2026-04-18T04:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045359522412396779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953158377103589376",
+              "start": 0,
+              "username": "zzjhzzjh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wxbJj3lum",
+              "end": 44,
+              "expanded_url": "https://x.com/e57jcetmSs91516/status/2045359522412396779/photo/1",
+              "media_key": "3_2045359512518033408",
+              "start": 21,
+              "url": "https://t.co/2wxbJj3lum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045359522412396779",
+        "in_reply_to_user_id": "1953158377103589376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045358686336672214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzjhzzjh 为什么点赞也要死妈😭 https://t.co/2wxbJj3lum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041969325519880192/ywBsTYxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 397,
+          "like_count": 4530,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2068
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "姐姐@maitakoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "maitakoo"
+              }
+            ]
+          }
+        },
+        "id": "2013875219392585728",
+        "location": "🚪52/88/288/520上不封顶（过门不退",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 291,
+          "like_count": 11988,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 5400
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T18:17:12.000Z",
+        "description": "随便发(=･ω･=)",
+        "id": "1953158377103589376",
+        "name": "龄元.",
+        "pinned_tweet_id": "2043377552560156949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953516274581217280/tvGCVI0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 18,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 161
+        },
+        "username": "zzjhzzjh",
+        "verified": false
+      }
+    ]
+  }
+}

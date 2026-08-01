@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2034674778964205661",
+    "created_at": "2026-03-20T03:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034836412273762672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950871068761325568",
+          "start": 0,
+          "username": "lianluo0328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034836412273762672",
+    "in_reply_to_user_id": "1950871068761325568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034809359025545632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianluo0328 os：我把你的os偷走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2034674778964205661",
+        "created_at": "2026-03-20T03:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034836412273762672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950871068761325568",
+              "start": 0,
+              "username": "lianluo0328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034836412273762672",
+        "in_reply_to_user_id": "1950871068761325568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034809359025545632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianluo0328 os：我把你的os偷走了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950871068761325568",
+        "conversation_id": "2034674778964205661",
+        "created_at": "2026-03-20T01:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034809359025545632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034809359025545632",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034674778964205661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu os好阔耐a、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537569747906560/RsoI7u_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 419,
+          "like_count": 3637,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1695
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T10:48:14.000Z",
+        "description": "",
+        "id": "1950871068761325568",
+        "name": "锁骨痣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033972618983051264/47yAbstm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 151,
+          "like_count": 1833,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 624
+        },
+        "username": "lianluo0328",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2040989002459967507",
+    "created_at": "2026-04-06T11:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041111543992230116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980992351930863616",
+          "start": 0,
+          "username": "liaojieta1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041111543992230116",
+    "in_reply_to_user_id": "1980992351930863616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041111160595136769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liaojieta1 嚎owo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2040989002459967507",
+        "created_at": "2026-04-06T11:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041111543992230116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980992351930863616",
+              "start": 0,
+              "username": "liaojieta1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041111543992230116",
+        "in_reply_to_user_id": "1980992351930863616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041111160595136769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liaojieta1 嚎owo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980992351930863616",
+        "conversation_id": "2040989002459967507",
+        "created_at": "2026-04-06T11:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041111160595136769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041111160595136769",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040989002459967507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 那就抱抱她也很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039039493211381760/FL4fXkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 356,
+          "like_count": 4111,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1869
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "#电子烟 各品牌正品零售联系方式：\n///薇v：RELX0️⃣1️⃣JK，///\n///QQ：2422848889，///\n///备用V：WKT9️⃣PD2️⃣2️⃣，///\n///TG：https://t.co/WZntYufb8F，///\n悦刻，冰熊，崧，鸭嘴兽，零售各种品牌正品电子烟。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "电子烟"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Vita0754",
+                "end": 117,
+                "expanded_url": "http://t.me/Vita0754",
+                "start": 94,
+                "url": "https://t.co/WZntYufb8F"
+              }
+            ]
+          }
+        },
+        "id": "1980992351930863616",
+        "name": "百川🚬电子烟各品牌正品悦刻鸭嘴兽冰熊",
+        "pinned_tweet_id": "2008816059957342282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031980163479793664/fmaYdQMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16013,
+          "following_count": 4,
+          "like_count": 96,
+          "listed_count": 17,
+          "media_count": 23,
+          "tweet_count": 319
+        },
+        "username": "liaojieta1",
+        "verified": true
+      }
+    ]
+  }
+}
