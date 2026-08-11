@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084812692704149504"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2084812720898228281",
+    "created_at": "2026-08-05T01:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084812720898228281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3s89L7Ymcv",
+          "end": 45,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2084812720898228281/video/1",
+          "media_key": "13_2084812692704149504",
+          "start": 22,
+          "url": "https://t.co/3s89L7Ymcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084812720898228281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大狗嚼嚼嚼嚼嚼嚼嚼（后面有月儿原生脸核泄漏 https://t.co/3s89L7Ymcv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7368,
+        "height": 1280,
+        "media_key": "13_2084812692704149504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084812692704149504/img/fgTyM1XpQ6t1gkPz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084812692704149504/vid/avc1/320x568/oAMjcqOu7iMuH-3h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084812692704149504/vid/avc1/480x852/UUwJaKCHhAfTgu-0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084812692704149504/vid/avc1/720x1280/IgA6oTfQtWBEvkge.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084812692704149504/pl/QOk8jvGSOHfmIkDR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084812692704149504"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2084812720898228281",
+        "created_at": "2026-08-05T01:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084812720898228281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3s89L7Ymcv",
+              "end": 45,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2084812720898228281/video/1",
+              "media_key": "13_2084812692704149504",
+              "start": 22,
+              "url": "https://t.co/3s89L7Ymcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084812720898228281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大狗嚼嚼嚼嚼嚼嚼嚼（后面有月儿原生脸核泄漏 https://t.co/3s89L7Ymcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 489,
+          "like_count": 6037,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2908
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

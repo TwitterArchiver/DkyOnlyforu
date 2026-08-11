@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2085268604732543442",
+    "created_at": "2026-08-06T07:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085268604732543442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243454759010332672",
+          "start": 3,
+          "username": "Baekhyun_TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085268604732543442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084966228163268914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Baekhyun_TvT: 把x上骂西村力的还有骂关种婊子都赞了个遍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2085268604732543442",
+        "created_at": "2026-08-06T07:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085268604732543442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243454759010332672",
+              "start": 3,
+              "username": "Baekhyun_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085268604732543442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084966228163268914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Baekhyun_TvT: 把x上骂西村力的还有骂关种婊子都赞了个遍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243454759010332672",
+        "conversation_id": "2084966228163268914",
+        "created_at": "2026-08-05T11:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084966228163268914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084966228163268914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 114540,
+          "like_count": 2534,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "把x上骂西村力的还有骂关种婊子都赞了个遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 493,
+          "like_count": 6083,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 2936
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T08:28:23.000Z",
+        "description": "",
+        "id": "1243454759010332672",
+        "location": "Seoul, Republic of Korea",
+        "name": "连同你的痣都如此的可爱",
+        "pinned_tweet_id": "1873043564143526160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080759919306018816/SWGUTIY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 6,
+          "like_count": 4061,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "Baekhyun_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

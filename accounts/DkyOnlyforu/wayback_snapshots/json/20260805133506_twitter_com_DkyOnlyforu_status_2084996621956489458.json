@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2084637431752786062",
+    "created_at": "2026-08-05T13:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084996621956489458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvays8964"
+        },
+        {
+          "end": 22,
+          "id": "1761298322856570880",
+          "start": 13,
+          "username": "suuuky12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084996621956489458",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084654234080088065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvays8964 @suuuky12 问她有没有喜欢的吃复数的卡 这种用来摆阵不会嫌多的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2084637431752786062",
+        "created_at": "2026-08-05T13:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084996621956489458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvays8964"
+            },
+            {
+              "end": 22,
+              "id": "1761298322856570880",
+              "start": 13,
+              "username": "suuuky12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084996621956489458",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084654234080088065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvays8964 @suuuky12 问她有没有喜欢的吃复数的卡 这种用来摆阵不会嫌多的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2084637431752786062",
+        "created_at": "2026-08-04T14:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084654234080088065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1761298322856570880",
+              "start": 0,
+              "username": "suuuky12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084654234080088065",
+        "in_reply_to_user_id": "1761298322856570880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5635,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084645852296200305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suuuky12 他只喜欢那种男团，然后他买了特别多张专辑，根本不缺😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 491,
+          "like_count": 6064,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 2921
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 244,
+          "like_count": 1890,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1173
+        },
+        "url": "",
+        "username": "Alvvays8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T07:53:54.000Z",
+        "description": "何者でもない 东京求学兼求生 不听歌会死\n男生",
+        "id": "1761298322856570880",
+        "location": "Tokyo/Shanghai",
+        "name": "suuuky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036812237281869824/8r9BfVXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 96,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "suuuky12",
+        "verified": true
+      }
+    ]
+  }
+}

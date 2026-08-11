@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2084812720898228281",
+    "created_at": "2026-08-05T06:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084886406917455972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766595057463996416",
+          "start": 0,
+          "username": "Aaa_NekozakiYuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084886406917455972",
+    "in_reply_to_user_id": "1766595057463996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084863302853861793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaa_NekozakiYuk 宝贝…owo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2084812720898228281",
+        "created_at": "2026-08-05T06:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084886406917455972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766595057463996416",
+              "start": 0,
+              "username": "Aaa_NekozakiYuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084886406917455972",
+        "in_reply_to_user_id": "1766595057463996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084863302853861793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaa_NekozakiYuk 宝贝…owo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766595057463996416",
+        "conversation_id": "2084812720898228281",
+        "created_at": "2026-08-05T04:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084863302853861793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084863302853861793",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084812720898228281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 真萌呀..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 490,
+          "like_count": 6051,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2916
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T22:41:23.000Z",
+        "description": "小号什么都发   sw/brat  男的别叫我宝宝\n只是一个很容易焦虑的普通小女孩\nhttps://t.co/LQEoawbAmL这个是我的提问箱^^",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sharkteeth23242",
+                "end": 65,
+                "expanded_url": "https://ngl.link/sharkteeth23242",
+                "start": 42,
+                "url": "https://t.co/LQEoawbAmL"
+              }
+            ]
+          }
+        },
+        "id": "1766595057463996416",
+        "location": "骚扰我的一辈子不能发财",
+        "name": "吸酱QwQ",
+        "pinned_tweet_id": "2076152043161760051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021580219321352192/fG-i_wl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 275,
+          "like_count": 9234,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1425
+        },
+        "url": "",
+        "username": "Aaa_NekozakiYuk",
+        "verified": false
+      }
+    ]
+  }
+}

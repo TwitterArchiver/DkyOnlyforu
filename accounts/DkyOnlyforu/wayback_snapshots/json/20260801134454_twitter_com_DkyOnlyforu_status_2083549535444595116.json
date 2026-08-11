@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083549511868375040"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2083549535444595116",
+    "created_at": "2026-08-01T13:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083549535444595116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjbOvi4jGS",
+          "end": 36,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2083549535444595116/video/1",
+          "media_key": "13_2083549511868375040",
+          "start": 13,
+          "url": "https://t.co/bjbOvi4jGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549535444595116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下我是你的山东老公 https://t.co/bjbOvi4jGS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5387,
+        "height": 1280,
+        "media_key": "13_2083549511868375040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083549511868375040/img/jYtMcnYb-GH7uKRy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083549511868375040/vid/avc1/320x574/Piy6-Mo-VOSbmBTu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083549511868375040/vid/avc1/480x862/NbZoz2WEtAqjitDZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083549511868375040/vid/avc1/712x1280/F2aSOqJpMepAyiXV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083549511868375040/pl/mBtcIYznn4qM5yy4.m3u8"
+          }
+        ],
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083549511868375040"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2083549535444595116",
+        "created_at": "2026-08-01T13:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083549535444595116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjbOvi4jGS",
+              "end": 36,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2083549535444595116/video/1",
+              "media_key": "13_2083549511868375040",
+              "start": 13,
+              "url": "https://t.co/bjbOvi4jGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549535444595116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的山东老公 https://t.co/bjbOvi4jGS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 487,
+          "like_count": 6000,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 2887
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

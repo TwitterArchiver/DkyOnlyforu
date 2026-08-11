@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2084542979453370834",
+    "created_at": "2026-08-05T01:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084813176361955549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954959493810515968",
+          "start": 0,
+          "username": "Chi777_Guuuu_"
+        },
+        {
+          "end": 29,
+          "id": "1561588899499196417",
+          "start": 15,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084813176361955549",
+    "in_reply_to_user_id": "1954959493810515968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084542979453370834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chi777_Guuuu_ @Tiandaidaidai 好似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084542974688661504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3IyoVakAAEMOf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2084542979453370834",
+        "created_at": "2026-08-05T01:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084813176361955549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954959493810515968",
+              "start": 0,
+              "username": "Chi777_Guuuu_"
+            },
+            {
+              "end": 29,
+              "id": "1561588899499196417",
+              "start": 15,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084813176361955549",
+        "in_reply_to_user_id": "1954959493810515968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084542979453370834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chi777_Guuuu_ @Tiandaidaidai 好似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084542974688661504"
+          ]
+        },
+        "author_id": "1954959493810515968",
+        "conversation_id": "2084542979453370834",
+        "created_at": "2026-08-04T07:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084542979453370834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qerVXetcXQ",
+              "end": 45,
+              "expanded_url": "https://x.com/Chi777_Guuuu_/status/2084542979453370834/photo/1",
+              "media_key": "3_2084542974688661504",
+              "start": 22,
+              "url": "https://t.co/qerVXetcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084542979453370834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 67605,
+          "like_count": 466,
+          "quote_count": 7,
+          "reply_count": 142,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这死妈的婊子终于给封了 msk最正确的一集 https://t.co/qerVXetcXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 489,
+          "like_count": 6039,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2910
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T17:34:08.000Z",
+        "description": "专心经营自己的下水道生活\n我只是一个心理极度黑暗扭曲的女孩 我有各种各样的奇怪癖好 但是对待感情依旧真诚 我只是在做自己的事\n纯绿🚪88推上陪聊 ➕52获得微信好友位",
+        "id": "1954959493810515968",
+        "name": "耻骨",
+        "pinned_tweet_id": "2083181835581006334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533665746411520/K7wdQ2rc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 18,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "Chi777_Guuuu_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "🔪丨💊丨🎨丨🏳️‍🌈丨❤️@GHYYAYA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "GHYYAYA"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "スカイストリート",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "2078010948070347221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084195254857834496/BG1hWkm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 2212,
+          "like_count": 90881,
+          "listed_count": 10,
+          "media_count": 839,
+          "tweet_count": 13120
+        },
+        "url": "",
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}
