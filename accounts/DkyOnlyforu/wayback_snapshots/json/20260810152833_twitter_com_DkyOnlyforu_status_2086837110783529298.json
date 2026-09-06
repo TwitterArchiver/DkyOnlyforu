@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2086783455053144183",
+    "created_at": "2026-08-10T15:28:33.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086837110783529298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694784186392236032",
+          "start": 0,
+          "username": "Hdhdkd171497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086837110783529298",
+    "in_reply_to_user_id": "1694784186392236032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086834653974204767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hdhdkd171497 给我五米米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2086783455053144183",
+        "created_at": "2026-08-10T15:28:33.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086837110783529298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694784186392236032",
+              "start": 0,
+              "username": "Hdhdkd171497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086837110783529298",
+        "in_reply_to_user_id": "1694784186392236032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086834653974204767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hdhdkd171497 给我五米米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694784186392236032",
+        "conversation_id": "2086783455053144183",
+        "created_at": "2026-08-10T15:18:47.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086834653974204767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086834653974204767",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086783455053144183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 我喜欢这个老师"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2086837110783529298",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 494,
+          "like_count": 6232,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 3012
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-24T18:50:31.000Z",
+        "description": "",
+        "id": "1694784186392236032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086834653974204767",
+        "name": "宇宙超级无敌暴龙战士",
+        "pinned_tweet_id": "1988900346245107840",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694784186392236032/1700844112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728091467674185728/q-kBsjMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 208,
+          "like_count": 689,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "Hdhdkd171497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

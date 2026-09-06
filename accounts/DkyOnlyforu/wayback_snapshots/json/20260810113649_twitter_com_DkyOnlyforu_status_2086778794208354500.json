@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2086438071718047789",
+    "created_at": "2026-08-10T11:36:49.000Z",
+    "display_text_range": [
+      8,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086778794208354500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1664132510542954497",
+          "start": 0,
+          "username": "1klin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086778794208354500",
+    "in_reply_to_user_id": "1664132510542954497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086713587394122187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1klin1 留再长的头发装日本人也不过是一个丑逼中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2086438071718047789",
+        "created_at": "2026-08-10T11:36:49.000Z",
+        "display_text_range": [
+          8,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086778794208354500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664132510542954497",
+              "start": 0,
+              "username": "1klin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086778794208354500",
+        "in_reply_to_user_id": "1664132510542954497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086713587394122187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1klin1 留再长的头发装日本人也不过是一个丑逼中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664132510542954497",
+        "conversation_id": "2086438071718047789",
+        "created_at": "2026-08-10T07:17:43.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086713587394122187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086713587394122187",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086438071718047789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 改再多花刀也没人在意你你只是一只畜生口而已"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2086778794208354500",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 493,
+          "like_count": 6227,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-01T04:51:35.000Z",
+        "description": "",
+        "id": "1664132510542954497",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086714113137525073",
+        "name": "gugu bird",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664132510542954497/1780973307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664132561541509120/rFXthqQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "1klin1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

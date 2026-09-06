@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2086783455053144183",
+    "created_at": "2026-08-10T12:16:16.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086788720259366995"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086788720259366995",
+    "in_reply_to_user_id": "1970504759762419712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086783455053144183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我o大了拍的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4168,
+        "height": 1280,
+        "media_key": "13_2086783430302593026",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086783430302593026/img/AbbOoke-BHoMI6p1.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086783430302593026/vid/avc1/320x568/cl8j6bv5rjucCV3w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086783430302593026/vid/avc1/480x852/fa5WnwR3mz48PKYl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086783430302593026/vid/avc1/720x1280/HlHWGiwMehkz6ize.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086783430302593026/pl/6fQ9l7AtUolkaWan.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2086783430302609408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW-eT5bsAAgfPh.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2086783455053144183",
+        "created_at": "2026-08-10T12:16:16.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086788720259366995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086788720259366995",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086783455053144183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我o大了拍的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086783430302593026",
+            "3_2086783430302609408"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2086783455053144183",
+        "created_at": "2026-08-10T11:55:20.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086783455053144183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0B54SN0ye6",
+              "end": 32,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2086783455053144183/video/1",
+              "media_key": "13_2086783430302593026",
+              "start": 9,
+              "url": "https://t.co/0B54SN0ye6"
+            },
+            {
+              "display_url": "pic.x.com/0B54SN0ye6",
+              "end": 32,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2086783455053144183/video/1",
+              "media_key": "3_2086783430302609408",
+              "start": 9,
+              "url": "https://t.co/0B54SN0ye6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086783455053144183",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086783430302593026"
+          },
+          {
+            "media_key": "3_2086783430302609408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以投喂月月吗🥺 https://t.co/0B54SN0ye6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2086788720259366995",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 493,
+          "like_count": 6229,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 3009
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

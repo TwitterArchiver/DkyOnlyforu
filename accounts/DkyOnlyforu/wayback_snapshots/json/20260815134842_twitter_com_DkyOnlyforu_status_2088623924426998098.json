@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088623910329995264",
+        "3_2088623910325825536",
+        "3_2088623910325829632"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088623924426998098",
+    "created_at": "2026-08-15T13:48:42.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088623924426998098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OkVMsBAbm6",
+          "end": 28,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2088623924426998098/photo/1",
+          "media_key": "3_2088623910329995264",
+          "start": 5,
+          "url": "https://t.co/OkVMsBAbm6"
+        },
+        {
+          "display_url": "pic.x.com/OkVMsBAbm6",
+          "end": 28,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2088623924426998098/photo/1",
+          "media_key": "3_2088623910325825536",
+          "start": 5,
+          "url": "https://t.co/OkVMsBAbm6"
+        },
+        {
+          "display_url": "pic.x.com/OkVMsBAbm6",
+          "end": 28,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2088623924426998098/photo/1",
+          "media_key": "3_2088623910325829632",
+          "start": 5,
+          "url": "https://t.co/OkVMsBAbm6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088623924426998098",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088623910329995264"
+      },
+      {
+        "media_key": "3_2088623910325825536"
+      },
+      {
+        "media_key": "3_2088623910325829632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好酥服呀 https://t.co/OkVMsBAbm6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088623910329995264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxIYWSbUAAVH9l.jpg",
+        "width": 1580
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088623910325825536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxIYWRbsAABJJD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088623910325829632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxIYWRbwAA3nEx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088623910329995264",
+            "3_2088623910325825536",
+            "3_2088623910325829632"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088623924426998098",
+        "created_at": "2026-08-15T13:48:42.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088623924426998098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkVMsBAbm6",
+              "end": 28,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2088623924426998098/photo/1",
+              "media_key": "3_2088623910329995264",
+              "start": 5,
+              "url": "https://t.co/OkVMsBAbm6"
+            },
+            {
+              "display_url": "pic.x.com/OkVMsBAbm6",
+              "end": 28,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2088623924426998098/photo/1",
+              "media_key": "3_2088623910325825536",
+              "start": 5,
+              "url": "https://t.co/OkVMsBAbm6"
+            },
+            {
+              "display_url": "pic.x.com/OkVMsBAbm6",
+              "end": 28,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2088623924426998098/photo/1",
+              "media_key": "3_2088623910325829632",
+              "start": 5,
+              "url": "https://t.co/OkVMsBAbm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088623924426998098",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088623910329995264"
+          },
+          {
+            "media_key": "3_2088623910325825536"
+          },
+          {
+            "media_key": "3_2088623910325829632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好酥服呀 https://t.co/OkVMsBAbm6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2088623924426998098",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 503,
+          "like_count": 6341,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 3055
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2088194757357084824",
+    "created_at": "2026-08-14T15:48:25.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088291661285937178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959892946926649344",
+          "start": 0,
+          "username": "Kiss_Yu_Forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088291661285937178",
+    "in_reply_to_user_id": "1959892946926649344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088281624475771129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_Yu_Forever 复制狗的一生：狗：复制我的一生干嘛੯‧̀͡⬮\\"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2088194757357084824",
+        "created_at": "2026-08-14T15:48:25.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088291661285937178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959892946926649344",
+              "start": 0,
+              "username": "Kiss_Yu_Forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088291661285937178",
+        "in_reply_to_user_id": "1959892946926649344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088281624475771129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_Yu_Forever 复制狗的一生：狗：复制我的一生干嘛੯‧̀͡⬮\\"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959892946926649344",
+        "conversation_id": "2088194757357084824",
+        "created_at": "2026-08-14T15:08:32.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088281624475771129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088281624475771129",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088194757357084824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 狗：复制我的一生干嘛੯‧̀͡⬮\\"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2088291661285937178",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 502,
+          "like_count": 6338,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 3052
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:17:58.000Z",
+        "description": "幸福请降临小妤手心",
+        "id": "1959892946926649344",
+        "is_identity_verified": false,
+        "location": "我的床",
+        "most_recent_tweet_id": "2088290714904137947",
+        "name": "春刻雨🌧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959892946926649344/1771786963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025647411516063744/3qa8UBjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 426,
+          "like_count": 14049,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "Kiss_Yu_Forever",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

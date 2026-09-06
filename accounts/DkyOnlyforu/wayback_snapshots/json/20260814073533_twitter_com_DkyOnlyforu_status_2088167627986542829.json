@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088167620046692352"
+      ]
+    },
+    "author_id": "1970504759762419712",
+    "conversation_id": "2088167627986542829",
+    "created_at": "2026-08-14T07:35:33.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088167627986542829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V2gFf3STGN",
+          "end": 99,
+          "expanded_url": "https://x.com/DkyOnlyforu/status/2088167627986542829/photo/1",
+          "media_key": "3_2088167620046692352",
+          "start": 76,
+          "url": "https://t.co/V2gFf3STGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088167627986542829",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088167620046692352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是不要死太快了，如果没死成的话，那去医院要花很多钱，如果死了的话呢，又要买墓地火化又要花好多钱，还不如活着一天点个拼好饭便宜呢。所以许愿米米吃饭饭。 https://t.co/V2gFf3STGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2088167620046692352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqpYwhbIAAkpCG.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088167620046692352"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2088167627986542829",
+        "created_at": "2026-08-14T07:35:33.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088167627986542829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2gFf3STGN",
+              "end": 99,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2088167627986542829/photo/1",
+              "media_key": "3_2088167620046692352",
+              "start": 76,
+              "url": "https://t.co/V2gFf3STGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088167627986542829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088167620046692352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是不要死太快了，如果没死成的话，那去医院要花很多钱，如果死了的话呢，又要买墓地火化又要花好多钱，还不如活着一天点个拼好饭便宜呢。所以许愿米米吃饭饭。 https://t.co/V2gFf3STGN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2088167627986542829",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 501,
+          "like_count": 6307,
+          "listed_count": 3,
+          "media_count": 386,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

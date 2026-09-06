@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2088627531020972152",
+    "created_at": "2026-08-15T20:19:10.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T21:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088722185817100692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062589140462710784",
+          "start": 0,
+          "username": "wy1116zm1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088722185817100692",
+    "in_reply_to_user_id": "2062589140462710784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088719880547868821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wy1116zm1214 嘿嘿谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2088627531020972152",
+        "created_at": "2026-08-15T20:19:10.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088722185817100692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062589140462710784",
+              "start": 0,
+              "username": "wy1116zm1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088722185817100692",
+        "in_reply_to_user_id": "2062589140462710784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088719880547868821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wy1116zm1214 嘿嘿谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062589140462710784",
+        "conversation_id": "2088627531020972152",
+        "created_at": "2026-08-15T20:10:00.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088719880547868821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088719880547868821",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088627531020972152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 好萌的钉子。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2088722185817100692",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 509,
+          "like_count": 6410,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 3072
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T17:40:11.000Z",
+        "description": "老师，我尿频尿急尿滴漏，肠炎肠梗肠应激……",
+        "id": "2062589140462710784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088722059283357846",
+        "name": "比屎更软的是我的心",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062589140462710784/1780595287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062591480364195840/ympeaDe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "wy1116zm1214",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

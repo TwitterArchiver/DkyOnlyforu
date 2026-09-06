@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2088034171361120339",
+    "created_at": "2026-08-14T02:43:50.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088094217155518637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728415914012311552",
+          "start": 0,
+          "username": "bibi164795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088094217155518637",
+    "in_reply_to_user_id": "1728415914012311552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088034171361120339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibi164795 来一百米米的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2088034138267783168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPov_GJXEAAgZ1r.jpg",
+        "width": 1465
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2088034152872386560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPov_8jXoAAR4V2.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2088034171361120339",
+        "created_at": "2026-08-14T02:43:50.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088094217155518637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728415914012311552",
+              "start": 0,
+              "username": "bibi164795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088094217155518637",
+        "in_reply_to_user_id": "1728415914012311552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088034171361120339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibi164795 来一百米米的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088034138267783168",
+            "3_2088034152872386560"
+          ]
+        },
+        "author_id": "1728415914012311552",
+        "conversation_id": "2088034171361120339",
+        "created_at": "2026-08-13T22:45:14.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088034171361120339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9yAYzzOL7",
+              "end": 28,
+              "expanded_url": "https://x.com/bibi164795/status/2088034171361120339/photo/1",
+              "media_key": "3_2088034138267783168",
+              "start": 5,
+              "url": "https://t.co/m9yAYzzOL7"
+            },
+            {
+              "display_url": "pic.x.com/m9yAYzzOL7",
+              "end": 28,
+              "expanded_url": "https://x.com/bibi164795/status/2088034171361120339/photo/1",
+              "media_key": "3_2088034152872386560",
+              "start": 5,
+              "url": "https://t.co/m9yAYzzOL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088034171361120339",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088034138267783168"
+          },
+          {
+            "media_key": "3_2088034152872386560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一元一盒 https://t.co/m9yAYzzOL7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2088094217155518637",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 501,
+          "like_count": 6290,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 3037
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-25T14:10:53.000Z",
+        "description": "Hi我叫椰椰｜照 片 都 是 高 P｜INTP-T｜05｜双相情感障碍｜重重重焦｜🚬🔪💊｜偶尔发点🔞\n性感极其古怪，把这当🚽啥都发｜好友位🚪88\n如果你有钱，我可以为你做任何事，我包容程度极高",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi1647951",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bibi1647951",
+                "start": 0,
+                "url": "https://t.co/FAv3jMGDDE"
+              }
+            ]
+          }
+        },
+        "id": "1728415914012311552",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2088073212298948870",
+        "name": "←防吃",
+        "pinned_tweet_id": "2088034737608638527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728415914012311552/1786381557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088026491011346432/Ah_Zy2yt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 197,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/FAv3jMGDDE",
+        "username": "bibi164795",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

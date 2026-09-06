@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970504759762419712",
+    "conversation_id": "2088467324877901926",
+    "created_at": "2026-08-15T15:51:25.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088654805430587573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1789533976027426816",
+          "start": 0,
+          "username": "kyou_0207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088654805430587573",
+    "in_reply_to_user_id": "1789533976027426816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088467324877901926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyou_0207 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28234,
+        "height": 960,
+        "media_key": "13_2088467288123170816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088467288123170816/img/TSRdi-w_M0FxylxK.jpg",
+        "public_metrics": {
+          "view_count": 53089
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088467288123170816/vid/avc1/320x426/VuKKFD_vC387lA7k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088467288123170816/vid/avc1/480x640/rlHlixVXaEVgkOOq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088467288123170816/vid/avc1/720x960/SNNwOpBGeiEbr7ig.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088467288123170816/pl/no1T4TJkeHyeGdOW.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2088467324877901926",
+        "created_at": "2026-08-15T15:51:25.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088654805430587573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1789533976027426816",
+              "start": 0,
+              "username": "kyou_0207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088654805430587573",
+        "in_reply_to_user_id": "1789533976027426816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088467324877901926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyou_0207 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088467288123170816"
+          ]
+        },
+        "author_id": "1789533976027426816",
+        "conversation_id": "2088467324877901926",
+        "created_at": "2026-08-15T03:26:26.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088467324877901926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q8FphS4SQ",
+              "end": 23,
+              "expanded_url": "https://x.com/kyou_0207/status/2088467324877901926/video/1",
+              "media_key": "13_2088467288123170816",
+              "start": 0,
+              "url": "https://t.co/5q8FphS4SQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088467324877901926",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088467288123170816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1319,
+          "impression_count": 91627,
+          "like_count": 7249,
+          "quote_count": 92,
+          "reply_count": 101,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5q8FphS4SQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "is_identity_verified": false,
+        "location": "懵逼中",
+        "most_recent_tweet_id": "2088654805430587573",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970504759762419712/1772476031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084472689432113152/JIvbgKPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 507,
+          "like_count": 6349,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-12T05:53:32.000Z",
+        "description": "こんちわ/凍結したとき用兼平和なやつ→@ttttt2222227 /Tiktok→@n30303030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "ttttt2222227"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "n30303030"
+              }
+            ]
+          }
+        },
+        "id": "1789533976027426816",
+        "is_identity_verified": false,
+        "location": "17歳",
+        "most_recent_tweet_id": "2088635093451726920",
+        "name": "景",
+        "pinned_tweet_id": "2082306108115542061",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789533976027426816/1786781805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962134900351614977/NN4JKTQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3860,
+          "following_count": 6,
+          "like_count": 144,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "kyou_0207",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
